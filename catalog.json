@@ -1,0 +1,34 @@
+[
+  {
+    "id": "tt6084924",
+    "type": "series",
+    "name": "Attributes",
+    "year": 2014,
+    "imdb_id": "tt6084924",
+    "country": "Other Asia"
+  },
+  {
+    "id": "tt3216682",
+    "type": "series",
+    "name": "A to Z",
+    "year": 2014,
+    "imdb_id": "tt3216682",
+    "country": "Cambodia"
+  },
+  {
+    "id": "tt16098700",
+    "type": "series",
+    "name": "By Country",
+    "year": 2022,
+    "imdb_id": "tt16098700",
+    "country": "Cambodia"
+  },
+  {
+    "id": "tt37022512",
+    "type": "series",
+    "name": "Other",
+    "year": 2026,
+    "imdb_id": "tt37022512",
+    "country": "Cambodia"
+  }
+]
