@@ -1,38 +1,15 @@
 const axios = require("axios");
-const cheerio = require("cheerio");
 const fs = require("fs");
 
-const SOURCES = [
-  "https://www.world-of-bl.com/index.php/Main/Shows",
-  "https://www.world-of-bl.com/index.php/Main/Shows-Country"
-];
-
-const COUNTRIES = [
-  "Brazil",
-  "Cambodia",
-  "China",
-  "Hong Kong",
-  "India",
-  "Japan",
-  "Laos",
-  "Myanmar",
-  "Philippines",
-  "South Korea",
-  "Taiwan",
-  "Thailand",
-  "Vietnam"
-];
-
-function normalize(text) {
-  return text
-    .replace(/\s+/g, " ")
-    .replace(/\[[^\]]*\]/g, "")
-    .replace(/\([^)]*OFFLINE[^)]*\)/gi, "")
-    .trim();
-}
+const INPUT = "series-links.json";
 
 function cleanTitle(title) {
-  title = normalize(title);
+  if (!title) return null;
+
+  title = String(title)
+    .replace(/\s+/g, " ")
+    .replace(/\([^)]*OFFLINE[^)]*\)/gi, "")
+    .trim();
 
   if (!title || title.length < 2) return null;
 
@@ -55,18 +32,19 @@ function cleanTitle(title) {
     "viki",
     "wetv",
     "iqiyi",
-    "gaga"
+    "gaga",
+    "by country",
+    "other",
+    "attributes"
   ];
 
   if (badExact.includes(lower)) return null;
 
   if (/^\d{4}$/.test(title)) return null;
 
-  if (/^(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)$/i.test(title)) {
-    return null;
-  }
-
-  if (/^(january|february|march|april|may|june|july|august|september|october|november|december)\s+\d{4}$/i.test(title)) {
+  if (
+    /^(january|february|march|april|may|june|july|august|september|october|november|december)\s+\d{4}$/i.test(title)
+  ) {
     return null;
   }
 
@@ -75,33 +53,110 @@ function cleanTitle(title) {
   return title;
 }
 
-function detectCountry(text) {
-  for (const country of COUNTRIES) {
-    if (text.toLowerCase().includes(country.toLowerCase())) {
-      return country;
+function normalizeCountry(country) {
+  const map = {
+    Thai: "Thailand",
+    Thailand: "Thailand",
+    Japan: "Japan",
+    Japanese: "Japan",
+    Korean: "South Korea",
+    Korea: "South Korea",
+    SouthKorea: "South Korea",
+    "South Korea": "South Korea",
+    Taiwan: "Taiwan",
+    China: "China",
+    "Hong Kong": "Hong Kong",
+    HongKong: "Hong Kong",
+    Philippines: "Philippines",
+    Filipino: "Philippines",
+    Vietnam: "Vietnam",
+    Vietnamese: "Vietnam",
+    Cambodia: "Cambodia",
+    Cambodian: "Cambodia",
+    Laos: "Laos",
+    Myanmar: "Myanmar",
+    India: "India",
+    Indian: "India"
+  };
+
+  return map[country] || "Other Asia";
+}
+
+function normalizeText(text) {
+  return String(text || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function titleMatches(sourceTitle, imdbTitle) {
+
+  const a = normalizeText(sourceTitle);
+  const b = normalizeText(imdbTitle);
+
+  if (!a || !b) return false;
+
+  if (a === b) return true;
+
+  if (b.includes(a) || a.includes(b)) {
+
+    const shorter = a.length < b.length ? a : b;
+
+    if (shorter.length >= 8) {
+      return true;
     }
   }
 
-  return "Other Asia";
-}
+  const stopWords = new Set([
+    "the",
+    "a",
+    "an",
+    "of",
+    "and",
+    "to",
+    "in",
+    "on",
+    "my",
+    "our",
+    "your"
+  ]);
 
-async function getPage(url) {
-  const response = await axios.get(url, {
-    timeout: 30000,
-    headers: {
-      "User-Agent":
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/138 Safari/537.36",
-      "Accept":
-        "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-      "Accept-Language": "en-US,en;q=0.9"
+  const sourceWords = a
+    .split(" ")
+    .filter(x => x.length >= 3 && !stopWords.has(x));
+
+  const imdbWords = new Set(
+    b
+      .split(" ")
+      .filter(x => x.length >= 3 && !stopWords.has(x))
+  );
+
+  if (sourceWords.length === 0) return false;
+
+  let matched = 0;
+
+  for (const word of sourceWords) {
+    if (imdbWords.has(word)) {
+      matched++;
     }
-  });
+  }
 
-  return response.data;
+  const ratio = matched / sourceWords.length;
+
+  return (
+    sourceWords.length >= 2 &&
+    ratio >= 0.7
+  );
 }
 
-async function imdbSearch(title, year) {
+async function imdbSearch(title) {
+
   try {
+
     const url =
       "https://v2.sg.media-imdb.com/suggestion/x/" +
       encodeURIComponent(title) +
@@ -128,17 +183,22 @@ async function imdbSearch(title, year) {
 
     if (!series.length) return null;
 
-    if (year) {
-      const exact = series.find(
-        x => Number(x.y) === Number(year)
-      );
+    for (const candidate of series) {
 
-      if (exact) return exact;
+      if (
+        titleMatches(
+          title,
+          candidate.l
+        )
+      ) {
+        return candidate;
+      }
     }
 
-    return series[0];
+    return null;
 
   } catch {
+
     return null;
   }
 }
@@ -147,108 +207,59 @@ async function main() {
 
   console.log("");
   console.log("==========================================");
-  console.log("        ASIAN BL UNIVERSE BUILDER");
+  console.log("       ASIAN BL UNIVERSE BUILDER");
   console.log("==========================================");
   console.log("");
 
-  const found = new Map();
-
-  for (const source of SOURCES) {
-
-    console.log("Descargando:");
-    console.log(source);
-    console.log("");
-
-    try {
-
-      const html = await getPage(source);
-
-      console.log("HTTP 200");
-      console.log("");
-
-      const $ = cheerio.load(html);
-
-      $("a").each((i, el) => {
-
-        const href = $(el).attr("href") || "";
-
-        if (!href.includes("Main/")) return;
-
-        let title = $(el).text().trim();
-
-        title = cleanTitle(title);
-
-        if (!title) return;
-
-        const rowText = $(el)
-          .closest("tr")
-          .text()
-          .replace(/\s+/g, " ");
-
-        const parentText = $(el)
-          .parent()
-          .text()
-          .replace(/\s+/g, " ");
-
-        const context = rowText + " " + parentText;
-
-        const country = detectCountry(context);
-
-        const years = context.match(/\b(19|20)\d{2}\b/g);
-
-        const year = years
-          ? Number(years[0])
-          : null;
-
-        const key = title
-          .toLowerCase()
-          .replace(/[^\p{L}\p{N}]+/gu, " ")
-          .trim();
-
-        if (!found.has(key)) {
-
-          found.set(key, {
-            name: title,
-            country,
-            year
-          });
-
-        } else {
-
-          const existing = found.get(key);
-
-          if (
-            existing.country === "Other Asia" &&
-            country !== "Other Asia"
-          ) {
-            existing.country = country;
-          }
-
-          if (!existing.year && year) {
-            existing.year = year;
-          }
-        }
-      });
-
-    } catch (error) {
-
-      console.log(
-        "ERROR:",
-        error.response?.status || error.message
-      );
-
-      console.log("");
-    }
+  if (!fs.existsSync(INPUT)) {
+    throw new Error(`${INPUT} no existe.`);
   }
 
-  const titles = [...found.values()];
+  const source = JSON.parse(
+    fs.readFileSync(INPUT, "utf8")
+  );
 
-  console.log("==========================================");
-  console.log("TÍTULOS DESCUBIERTOS:", titles.length);
-  console.log("==========================================");
+  if (!Array.isArray(source)) {
+    throw new Error(`${INPUT} no contiene un array.`);
+  }
+
+  console.log(
+    "Series encontradas:",
+    source.length
+  );
+
   console.log("");
 
-  const catalog = [];
+  const titles = [];
+  const seenTitles = new Set();
+
+  for (const item of source) {
+
+    const name = cleanTitle(item.name);
+
+    if (!name) continue;
+
+    const key = normalizeText(name);
+
+    if (seenTitles.has(key)) continue;
+
+    seenTitles.add(key);
+
+    titles.push({
+      name,
+      country: normalizeCountry(item.country),
+      url: item.url || null
+    });
+  }
+
+  console.log(
+    "Títulos únicos:",
+    titles.length
+  );
+
+  console.log("");
+
+  const metas = [];
   const missing = [];
   const seenIMDb = new Set();
 
@@ -260,67 +271,115 @@ async function main() {
       `[${i + 1}/${titles.length}] ${item.name}`
     );
 
-    const imdb = await imdbSearch(
-      item.name,
-      item.year
-    );
+    const imdb = await imdbSearch(item.name);
 
     if (!imdb) {
 
       missing.push(item);
 
-      console.log(" → SIN IMDb");
+      console.log(" → SIN COINCIDENCIA IMDb");
 
       continue;
     }
 
     if (seenIMDb.has(imdb.id)) {
 
-      console.log(" → DUPLICADO IMDb");
+      console.log(
+        " → DUPLICADO IMDb"
+      );
 
       continue;
     }
 
     seenIMDb.add(imdb.id);
 
-    if (imdb.y) {
-      item.year = Number(imdb.y);
-    }
-
-    catalog.push({
+    const meta = {
       id: imdb.id,
       type: "series",
-      name: item.name,
-      year: item.year || undefined,
-      imdb_id: imdb.id,
-      country: item.country
-    });
 
-    console.log(" →", imdb.id);
+      /*
+       * Conservamos el título original
+       * encontrado en World-of-BL.
+       */
+      name: item.name,
+
+      imdb_id: imdb.id,
+
+      country: item.country
+    };
+
+    if (imdb.y) {
+      meta.year = Number(imdb.y);
+    }
+
+    metas.push(meta);
+
+    console.log(
+      " →",
+      imdb.id,
+      "(" + (imdb.l || "IMDb") + ")"
+    );
+
+    await new Promise(resolve =>
+      setTimeout(resolve, 150)
+    );
   }
 
   fs.writeFileSync(
     "catalog.json",
-    JSON.stringify(catalog, null, 2)
+    JSON.stringify(
+      {
+        metas
+      },
+      null,
+      2
+    )
   );
 
   fs.writeFileSync(
     "missing.json",
-    JSON.stringify(missing, null, 2)
+    JSON.stringify(
+      missing,
+      null,
+      2
+    )
   );
 
   console.log("");
   console.log("==========================================");
-  console.log("                RESULTADO");
+  console.log("              RESULTADO");
   console.log("==========================================");
   console.log("");
-  console.log("TÍTULOS ÚNICOS:", titles.length);
-  console.log("CON IMDb:", catalog.length);
-  console.log("SIN IMDb:", missing.length);
-  console.log("TOTAL:", catalog.length + missing.length);
+
+  console.log(
+    "TÍTULOS ORIGINALES:",
+    source.length
+  );
+
+  console.log(
+    "TÍTULOS ÚNICOS:",
+    titles.length
+  );
+
+  console.log(
+    "CON IMDb:",
+    metas.length
+  );
+
+  console.log(
+    "SIN COINCIDENCIA:",
+    missing.length
+  );
+
   console.log("");
-  console.log("catalog.json creado correctamente.");
-  console.log("missing.json creado correctamente.");
+  console.log(
+    "catalog.json creado correctamente."
+  );
+
+  console.log(
+    "missing.json creado correctamente."
+  );
+
   console.log("");
 }
 
@@ -328,7 +387,7 @@ main().catch(error => {
 
   console.error("");
   console.error("==========================================");
-  console.error("                  ERROR");
+  console.error("                 ERROR");
   console.error("==========================================");
   console.error("");
 

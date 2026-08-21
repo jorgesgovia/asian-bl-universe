@@ -1,8 +1,23 @@
 [
   {
+    "name": "Dont Be Too Emotional",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/DontBeTooEmotional"
+  },
+  {
     "name": "Akina",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/Akina"
+  },
+  {
+    "name": "Be My Soulmate",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/BeMySoulmate"
+  },
+  {
+    "name": "Cupids Ghost",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/CupidsGhost"
   },
   {
     "name": "Friend To Fan",
@@ -10,7 +25,7 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/FriendToFan"
   },
   {
-    "name": "Love³",
+    "name": "Love3",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/Love3"
   },
@@ -25,12 +40,27 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/NewBoyfriend"
   },
   {
+    "name": "Oceans Heart",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/OceansHeart"
+  },
+  {
     "name": "Salung Luang",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/SalungLuang"
   },
   {
-    "name": "2BB",
+    "name": "Weirdo101",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/Weirdo101"
+  },
+  {
+    "name": "Your Tuber",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/YourTuber"
+  },
+  {
+    "name": "2 B B",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/2BB"
   },
@@ -45,9 +75,9 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/2ndChance"
   },
   {
-    "name": "4 Thirties Gossip",
-    "country": "Other Asia",
-    "url": "https://www.world-of-bl.com/index.php/HongKong/4ThirtiesGossip"
+    "name": "2 Wish",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/2Wish"
   },
   {
     "name": "21 Days Theory",
@@ -55,99 +85,14 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/21DaysTheory"
   },
   {
-    "name": "90 Days",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/90Days"
-  },
-  {
     "name": "1000 Stars",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/1000Stars"
   },
   {
-    "name": "Activeboys",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/Activeboys"
-  },
-  {
-    "name": "A(ir) Moment",
-    "country": "Thailand",
-    "url": "https://www.world-of-bl.com/index.php/Thai/AirMoment"
-  },
-  {
-    "name": "A Love Song For My Beloved",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/ALoveSongForMyBeloved"
-  },
-  {
-    "name": "Amore",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Amore"
-  },
-  {
-    "name": "And That Is You",
-    "country": "Cambodia",
-    "url": "https://www.world-of-bl.com/index.php/Cambodia/AndThatIsYou"
-  },
-  {
-    "name": "Art Of Love",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/ArtOfLove"
-  },
-  {
-    "name": "A Sketchy Job",
-    "country": "China",
-    "url": "https://www.world-of-bl.com/index.php/China/ASketchyJob"
-  },
-  {
-    "name": "A Story To Remember",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/AStoryToRemember"
-  },
-  {
-    "name": "Bagan Beginning",
-    "country": "Myanmar",
-    "url": "https://www.world-of-bl.com/index.php/Myanmar/BaganBeginning"
-  },
-  {
-    "name": "Because Of Meeting We Meet Each Other",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/BecauseOfMeeting"
-  },
-  {
     "name": "Before I Love You",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/BeforeILoveYou"
-  },
-  {
-    "name": "Ben X Jim / B X J Forever",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/BenXJim"
-  },
-  {
-    "name": "Best Boyfriend",
-    "country": "Cambodia",
-    "url": "https://www.world-of-bl.com/index.php/Cambodia/BestBoyfriend"
-  },
-  {
-    "name": "Between Us (Thailand)",
-    "country": "Thailand",
-    "url": "https://www.world-of-bl.com/index.php/Thai/BetweenUs"
-  },
-  {
-    "name": "Boyband Love",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/BoybandLove"
-  },
-  {
-    "name": "Boy, Do You Still Love Me?",
-    "country": "Other Asia",
-    "url": "https://www.world-of-bl.com/index.php/HongKong/BoyDoYouStillLoveMe"
-  },
-  {
-    "name": "Boys' Christmas",
-    "country": "Other Asia",
-    "url": "https://www.world-of-bl.com/index.php/HongKong/BoysChristmas"
   },
   {
     "name": "Boy Scouts",
@@ -160,34 +105,24 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/CalculatingLove"
   },
   {
-    "name": "ChermChey",
-    "country": "Thailand",
-    "url": "https://www.world-of-bl.com/index.php/Thai/ChermChey"
-  },
-  {
     "name": "Choose",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/Choose"
   },
   {
-    "name": "Close Friend: Soju Bomb",
+    "name": "Close Friend Soju Bomb",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/CloseFriendSojuBomb"
   },
   {
-    "name": "Club Friday 5: Secret of Unreal Heart",
+    "name": "Club Friday5",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/ClubFriday5"
   },
   {
-    "name": "Continue (Padayon)",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Continue"
-  },
-  {
-    "name": "DanDanSoy",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/DanDanSoy"
+    "name": "Cupids Last Wish",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/CupidsLastWish"
   },
   {
     "name": "Deal Lover",
@@ -195,44 +130,34 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/DealLover"
   },
   {
-    "name": "Dinosaur Love Buddy Line Y Animal",
+    "name": "Buddy Line Y Animal",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/BuddyLineYAnimal"
   },
   {
-    "name": "Edge Of 17",
+    "name": "Doctors Mine",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/DoctorsMine"
+  },
+  {
+    "name": "Whats The Nong",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/WhatsTheNong"
+  },
+  {
+    "name": "Dont Say No",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/DontSayNo"
+  },
+  {
+    "name": "Edge Of17",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/EdgeOf17"
   },
   {
-    "name": "Ending Friend",
-    "country": "Cambodia",
-    "url": "https://www.world-of-bl.com/index.php/Cambodia/EndingFriend"
-  },
-  {
-    "name": "Evening Café",
+    "name": "Evening Cafe",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/EveningCafe"
-  },
-  {
-    "name": "Follow My Sunshine",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/FollowMySunshine"
-  },
-  {
-    "name": "FOOLs",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/Fools"
-  },
-  {
-    "name": "Football Guys / Bikini Wars",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/FootballGuys"
-  },
-  {
-    "name": "Friend Forever / Our Love Is Sick",
-    "country": "Thailand",
-    "url": "https://www.world-of-bl.com/index.php/Thai/FriendForever"
   },
   {
     "name": "Future",
@@ -250,69 +175,14 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/GoodLoser"
   },
   {
-    "name": "Got'chu Fam!",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/GotchuFam"
-  },
-  {
-    "name": "Grey Rainbow (Views of Love)",
+    "name": "Head2 Head",
     "country": "Thailand",
-    "url": "https://www.world-of-bl.com/index.php/Thai/GreyRainbow"
+    "url": "https://www.world-of-bl.com/index.php/Thai/Head2Head"
   },
   {
-    "name": "Gu Jin Nan Qiu",
-    "country": "China",
-    "url": "https://www.world-of-bl.com/index.php/China/GuJinNanQiu"
-  },
-  {
-    "name": "Happiness Flies Far Away",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/HappinessFliesFarAway"
-  },
-  {
-    "name": "Healing Thingyan",
-    "country": "Myanmar",
-    "url": "https://www.world-of-bl.com/index.php/Myanmar/HealingThingyan"
-  },
-  {
-    "name": "HeartBreak Mountain",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/HeartBreakMountain"
-  },
-  {
-    "name": "Hehe & He",
-    "country": "Other Asia",
-    "url": "https://www.world-of-bl.com/index.php/HongKong/HeheAndHe"
-  },
-  {
-    "name": "Hermoso",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Hermoso"
-  },
-  {
-    "name": "HIStory 2: Crossing The Line",
-    "country": "Taiwan",
-    "url": "https://www.world-of-bl.com/index.php/Taiwan/HIStory2CrossingTheLine"
-  },
-  {
-    "name": "HIStory 3: Trapped",
-    "country": "Taiwan",
-    "url": "https://www.world-of-bl.com/index.php/Taiwan/HIStory3Trapped"
-  },
-  {
-    "name": "HIStory 3: Make Our Days Count",
-    "country": "Taiwan",
-    "url": "https://www.world-of-bl.com/index.php/Taiwan/HIStory3MakeOurDaysCount"
-  },
-  {
-    "name": "HIStory 5: Love In The Future",
-    "country": "Taiwan",
-    "url": "https://www.world-of-bl.com/index.php/Taiwan/HIStory5LoveInTheFuture"
-  },
-  {
-    "name": "Hanoi I love You",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/HanoiIloveYou"
+    "name": "Hes Coming To Me",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/HesComingToMe"
   },
   {
     "name": "House Of The Dark Shadows",
@@ -320,24 +190,19 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/HouseOfTheDarkShadows"
   },
   {
-    "name": "I Am Your King 1",
+    "name": "I Am Your King1",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/IAmYourKing1"
   },
   {
-    "name": "I Am Your King 2",
+    "name": "I Am Your King2",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/IAmYourKing2"
   },
   {
-    "name": "I Became The Main Role Of A BL",
-    "country": "Japan",
-    "url": "https://www.world-of-bl.com/index.php/Japan/IBecameTheMainRoleOfABLDrama"
-  },
-  {
-    "name": "If Tomorrow Never Comes",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/IfTomorrowNeverComes"
+    "name": "Im Your Boyy",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/ImYourBoyy"
   },
   {
     "name": "In A Relationship",
@@ -345,29 +210,9 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/InARelationship"
   },
   {
-    "name": "Indigo",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Indigo"
-  },
-  {
-    "name": "In This Kaleidoscope World",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/InThisKaleidoscopeWorld"
-  },
-  {
     "name": "I Promise I Will Comeback",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/IPromiseIWillComeback"
-  },
-  {
-    "name": "Island",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Island"
-  },
-  {
-    "name": "Jump The Boy",
-    "country": "Taiwan",
-    "url": "https://www.world-of-bl.com/index.php/Taiwan/JumpTheBoy"
   },
   {
     "name": "Key Love",
@@ -375,34 +220,24 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/KeyLove"
   },
   {
-    "name": "Kiseki In Tokyo / Season Of Love",
+    "name": "Kinn Porsche",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/KinnPorsche"
+  },
+  {
+    "name": "Kiseki",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/Kiseki"
   },
   {
-    "name": "Life Gives Us Sadness",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/LifeGivesUsSadness"
+    "name": "Kiss",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/Kiss"
   },
   {
-    "name": "Lost In Kyoto",
-    "country": "China",
-    "url": "https://www.world-of-bl.com/index.php/China/LostInKyoto"
-  },
-  {
-    "name": "Love At 7-11",
+    "name": "Love At7-11",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/LoveAt7-11"
-  },
-  {
-    "name": "Love By Fehler",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/LoveByFehler"
-  },
-  {
-    "name": "Love Is",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/LoveIs"
   },
   {
     "name": "Loveless Society",
@@ -415,14 +250,9 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/LoveOnLo"
   },
   {
-    "name": "Love Sea The Home For Lovers",
-    "country": "Japan",
-    "url": "https://www.world-of-bl.com/index.php/Japan/LoveSeaTheHomeForLovers"
-  },
-  {
-    "name": "Love Sick (2014)",
+    "name": "Love Sick2024",
     "country": "Thailand",
-    "url": "https://www.world-of-bl.com/index.php/Thai/LoveSick"
+    "url": "https://www.world-of-bl.com/index.php/Thai/LoveSick2024"
   },
   {
     "name": "Love You In Every Multiverse",
@@ -430,39 +260,14 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/LoveYouInEveryMultiverse"
   },
   {
-    "name": "Lust Never Lasts",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/LustNeverLasts"
-  },
-  {
-    "name": "Meet My Angel",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/MeetMyAngel"
-  },
-  {
-    "name": "Memory",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/Memory"
-  },
-  {
-    "name": "Mermaid Sauna",
-    "country": "Taiwan",
-    "url": "https://www.world-of-bl.com/index.php/Taiwan/MermaidSauna"
-  },
-  {
-    "name": "My",
-    "country": "Myanmar",
-    "url": "https://www.world-of-bl.com/index.php/Myanmar/My"
+    "name": "Middle Love",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/MiddleLove"
   },
   {
     "name": "My Baby Bright",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/MyBabyBright"
-  },
-  {
-    "name": "My Best Boyfriend",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/MyBestBoyfriend"
   },
   {
     "name": "My Boy",
@@ -471,28 +276,13 @@
   },
   {
     "name": "My Bromance",
-    "country": "Taiwan",
-    "url": "https://www.world-of-bl.com/index.php/Taiwan/MyBromanceTaiwan"
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/MyBromance"
   },
   {
-    "name": "My Bromance 2 - 5 Years Later",
+    "name": "My Bromance2",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/MyBromance2"
-  },
-  {
-    "name": "My Colleague At BL Shop",
-    "country": "Other Asia",
-    "url": "https://www.world-of-bl.com/index.php/HongKong/MyColleagueAtBLShop"
-  },
-  {
-    "name": "My Day/Our Day/Our Story",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/MyDay"
-  },
-  {
-    "name": "My Father's Lover",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/MyFathersLover"
   },
   {
     "name": "My Friendship",
@@ -500,44 +290,39 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/MyFriendship"
   },
   {
-    "name": "My Girlfriend's Boyfriend",
-    "country": "China",
-    "url": "https://www.world-of-bl.com/index.php/China/MyGirlfriendsBoyfriend"
-  },
-  {
     "name": "My Keychain",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/MyKeychain"
   },
   {
-    "name": "My Monster In Law",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/MyMonsterInLaw"
+    "name": "My Only12",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/MyOnly12"
   },
   {
-    "name": "My Sky",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/MySky"
+    "name": "My Tee",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/MyTee"
   },
   {
-    "name": "My Sweet Brother In Law",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/MySweetBrotherInLaw"
+    "name": "Niti Man",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/NitiMan"
   },
   {
-    "name": "Neighbor Guy",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/NeighborGuy"
+    "name": "O M G Vampire",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/OMGVampire"
   },
   {
-    "name": "Oh My Sexual",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/OhMySexual"
+    "name": "One Love Sitcom",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/OneLoveSitcom"
   },
   {
-    "name": "One Day Love",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/OneDayLove"
+    "name": "Ossans Love T H",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/OssansLoveTH"
   },
   {
     "name": "Our Days",
@@ -545,29 +330,9 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/OurDays"
   },
   {
-    "name": "Our Memory",
-    "country": "Taiwan",
-    "url": "https://www.world-of-bl.com/index.php/Taiwan/OurMemory"
-  },
-  {
     "name": "Oxygen",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/Oxygen"
-  },
-  {
-    "name": "Paper Shirt",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/PaperShirt"
-  },
-  {
-    "name": "Pay-Ibig",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/PayIbig"
-  },
-  {
-    "name": "People Come Later",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/PeopleComeLater"
   },
   {
     "name": "Perfect10 Liners",
@@ -575,24 +340,14 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/Perfect10Liners"
   },
   {
-    "name": "Pisces",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Pisces"
-  },
-  {
-    "name": "PunksTriangle",
-    "country": "Japan",
-    "url": "https://www.world-of-bl.com/index.php/Japan/PunksTriangle"
-  },
-  {
-    "name": "Roommate / Soulmate",
+    "name": "Puppy Honey1",
     "country": "Thailand",
-    "url": "https://www.world-of-bl.com/index.php/Thai/Roommate"
+    "url": "https://www.world-of-bl.com/index.php/Thai/PuppyHoney1"
   },
   {
-    "name": "Roommate Adam",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/RoommateAdam"
+    "name": "Reminder S",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/ReminderS"
   },
   {
     "name": "Roop Thong",
@@ -600,44 +355,14 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/RoopThong"
   },
   {
-    "name": "Saan Sana Tayo",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/SaanSanaTayo"
-  },
-  {
-    "name": "Safe Haven",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/SafeHaven"
-  },
-  {
-    "name": "Sakristan (Alter Boy)",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/AlterBoy"
-  },
-  {
-    "name": "School's Out! Let's Date Now!",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/SchoolsOutLetsDateNow"
-  },
-  {
     "name": "Self",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/Self"
   },
   {
-    "name": "Send Your Pain To The Wind",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/SendYourPainToTheWind"
-  },
-  {
-    "name": "Senior Love Me?",
+    "name": "Senior Love Me",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/SeniorLoveMe"
-  },
-  {
-    "name": "Serpiente",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Serpiente"
   },
   {
     "name": "Shadow",
@@ -645,54 +370,29 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/Shadow"
   },
   {
-    "name": "Simply Don't",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/SimplyDont"
-  },
-  {
-    "name": "Situationship In The City",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/SituationshipInTheCity"
-  },
-  {
-    "name": "SkinShip",
+    "name": "Skin Ship",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/SkinShip"
   },
   {
-    "name": "So Much In Love (Ni Yam Ruk)",
-    "country": "Thailand",
-    "url": "https://www.world-of-bl.com/index.php/Thai/SoMuchInLove"
-  },
-  {
-    "name": "SOTUS",
+    "name": "Sotus",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/Sotus"
   },
   {
-    "name": "Stay",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Stay"
-  },
-  {
-    "name": "Stranger's Kiss",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/StrangersKiss"
-  },
-  {
-    "name": "Swap Test",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/SwapTest"
-  },
-  {
-    "name": "Thame - Po",
+    "name": "Thame Po",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/ThamePo"
   },
   {
-    "name": "The Alter",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/TheAlter"
+    "name": "Tharn Type",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/TharnType"
+  },
+  {
+    "name": "Thats My Candy",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/ThatsMyCandy"
   },
   {
     "name": "The Best Twins",
@@ -705,49 +405,14 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/TheEffect"
   },
   {
-    "name": "The Heart Of Tsukuyomi",
-    "country": "China",
-    "url": "https://www.world-of-bl.com/index.php/China/TheHeartOfTsukuyomi"
-  },
-  {
-    "name": "The Heirs",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/TheHeirs"
-  },
-  {
     "name": "The Last Time",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/TheLastTime"
   },
   {
-    "name": "The Memories",
-    "country": "Cambodia",
-    "url": "https://www.world-of-bl.com/index.php/Cambodia/TheMemories"
-  },
-  {
-    "name": "The Moment I Need You / Since",
+    "name": "The Moment",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/TheMoment"
-  },
-  {
-    "name": "The Novelist / Mood Indigo",
-    "country": "Japan",
-    "url": "https://www.world-of-bl.com/index.php/Japan/TheNovelist"
-  },
-  {
-    "name": "The Promise [Vietnam]",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/ThePromise"
-  },
-  {
-    "name": "The Promise Of The Soul",
-    "country": "Taiwan",
-    "url": "https://www.world-of-bl.com/index.php/Taiwan/ThePromiseOfTheSoul"
-  },
-  {
-    "name": "The Reason Why He Fell In Love...",
-    "country": "Japan",
-    "url": "https://www.world-of-bl.com/index.php/Japan/TheReasonWhyHeFellInLoveWithMe"
   },
   {
     "name": "The Renovation",
@@ -761,51 +426,11 @@
   },
   {
     "name": "The Star",
-    "country": "Myanmar",
-    "url": "https://www.world-of-bl.com/index.php/Myanmar/TheStar"
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/TheStar"
   },
   {
-    "name": "The Sting Of Lavender",
-    "country": "India",
-    "url": "https://www.world-of-bl.com/index.php/India/TheStingOfLavender"
-  },
-  {
-    "name": "Third And Josh",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/ThirdAndJosh"
-  },
-  {
-    "name": "Tiến Bromance / My Small Family",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/TienBromance"
-  },
-  {
-    "name": "Trapped In Osaka",
-    "country": "China",
-    "url": "https://www.world-of-bl.com/index.php/China/TrappedInOsaka"
-  },
-  {
-    "name": "Truly Very Yours (Season 1)",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/TrulyVeryYours"
-  },
-  {
-    "name": "Undying Love",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/UndyingLove"
-  },
-  {
-    "name": "Unguarded (Season 3)",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Unguarded"
-  },
-  {
-    "name": "Unknown",
-    "country": "Taiwan",
-    "url": "https://www.world-of-bl.com/index.php/Taiwan/Unknown"
-  },
-  {
-    "name": "Venus's Groom",
+    "name": "Venuss Groom",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/VenussGroom"
   },
@@ -815,19 +440,9 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/WeAre"
   },
   {
-    "name": "What If It's Us?",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/WhatIfItsUs"
-  },
-  {
     "name": "You And My Stars",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/YouAndMyStars"
-  },
-  {
-    "name": "You Are My Stupid Boy (Season 3)",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/YouAreMyStupidBoy"
   },
   {
     "name": "You Made My Day",
@@ -835,24 +450,59 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/YouMadeMyDay"
   },
   {
-    "name": "The CEO",
+    "name": "Youre My Sky",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/YoureMySky"
+  },
+  {
+    "name": "2 Day",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/2Day"
+  },
+  {
+    "name": "Half",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/Half"
+  },
+  {
+    "name": "Is You",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/IsYou"
+  },
+  {
+    "name": "Love Advisor",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/LoveAdvisor"
+  },
+  {
+    "name": "My Blessing",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/MyBlessing"
+  },
+  {
+    "name": "Romantic Station",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/RomanticStation"
+  },
+  {
+    "name": "Tonight",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/Tonight"
+  },
+  {
+    "name": "Y Y Y",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/YYY"
+  },
+  {
+    "name": "The C E O",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/TheCEO"
   },
   {
-    "name": "Youths In The Breeze",
-    "country": "China",
-    "url": "https://www.world-of-bl.com/index.php/China/YouthsInTheBreeze"
-  },
-  {
-    "name": "7 Times 4 Days",
+    "name": "7 Times4 Days",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/7Times4Days"
-  },
-  {
-    "name": "Back To My First Love",
-    "country": "Taiwan",
-    "url": "https://www.world-of-bl.com/index.php/Taiwan/BackToMyFirstLove"
   },
   {
     "name": "Bangkok",
@@ -860,19 +510,9 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/Bangkok"
   },
   {
-    "name": "Cut",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Cut"
-  },
-  {
     "name": "Dear Dopamine",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/DearDopamine"
-  },
-  {
-    "name": "Kiss The Night",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/KissTheNight"
   },
   {
     "name": "Love Machine",
@@ -880,29 +520,9 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/LoveMachine"
   },
   {
-    "name": "Man & Mine Alone",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/ManAndMineAlone"
-  },
-  {
-    "name": "My Chinito Prince",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/MyChinitoPrince"
-  },
-  {
-    "name": "Strange Heart",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/StrangeHeart"
-  },
-  {
     "name": "The Mischievous Spy",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/TheMischievousSpy"
-  },
-  {
-    "name": "The Next Door Crush",
-    "country": "Vietnam",
-    "url": "https://www.world-of-bl.com/index.php/Vietnam/TheNextDoorCrush"
   },
   {
     "name": "The Whisperer",
@@ -913,11 +533,6 @@
     "name": "Art Adore En",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/ArtAdoreEn"
-  },
-  {
-    "name": "Bed Weather",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/BedWeather"
   },
   {
     "name": "Bitter Sweet",
@@ -945,7 +560,7 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/Brocon"
   },
   {
-    "name": "Dear Cupid...",
+    "name": "Dear Cupid",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/DearCupid"
   },
@@ -953,11 +568,6 @@
     "name": "Heart By Heart",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/HeartByHeart"
-  },
-  {
-    "name": "Locked Heart This Lockdown",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/LockedHeartThisLockdown"
   },
   {
     "name": "Lovely Addict",
@@ -970,44 +580,19 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/LovePuzzle"
   },
   {
-    "name": "Lovers In Thailand",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/LoversInThailand"
-  },
-  {
-    "name": "Lovin' U",
+    "name": "Lovin U",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/LovinU"
   },
   {
-    "name": "Lovin' You",
+    "name": "Lovin You",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/LovinYou"
   },
   {
-    "name": "Meet Me In Bangkok",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/MeetMeInBangkok"
-  },
-  {
-    "name": "Motor-Cycle",
+    "name": "Motor Cycle",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/MotorCycle"
-  },
-  {
-    "name": "My Croissant",
-    "country": "Cambodia",
-    "url": "https://www.world-of-bl.com/index.php/Cambodia/MyCroissant"
-  },
-  {
-    "name": "My Dreamboy",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/MyDreamboy"
-  },
-  {
-    "name": "Oh My Gee!",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/OhMyGee"
   },
   {
     "name": "Star Scope",
@@ -1015,24 +600,9 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/StarScope"
   },
   {
-    "name": "Tarrar: The Star",
-    "country": "Myanmar",
-    "url": "https://www.world-of-bl.com/index.php/Myanmar/Tarrar"
-  },
-  {
-    "name": "The Gamer & His Awkward Boy",
+    "name": "The Gamer",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/TheGamer"
-  },
-  {
-    "name": "The Heart Accent Lamp",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/TheHeartAccentLamp"
-  },
-  {
-    "name": "The Tale Of Tail",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/TheTaleOfTail"
   },
   {
     "name": "The Theory",
@@ -1045,27 +615,12 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/TrueMoon"
   },
   {
-    "name": "Turbulence",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Turbulence"
-  },
-  {
-    "name": "Unexpected: Ikaw At Ako",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/Unexpected"
-  },
-  {
     "name": "Universe Of Love",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/UniverseOfLove"
   },
   {
-    "name": "Until Forever",
-    "country": "Philippines",
-    "url": "https://www.world-of-bl.com/index.php/Philippines/UntilForever"
-  },
-  {
-    "name": "Vampire Project",
+    "name": "Vampire",
     "country": "Thailand",
     "url": "https://www.world-of-bl.com/index.php/Thai/Vampire"
   },
@@ -1075,13 +630,808 @@
     "url": "https://www.world-of-bl.com/index.php/Thai/WallOfDawn"
   },
   {
+    "name": "Wish You Luck",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/WishYouLuck"
+  },
+  {
+    "name": "Zero",
+    "country": "Thailand",
+    "url": "https://www.world-of-bl.com/index.php/Thai/Zero"
+  },
+  {
+    "name": "At2500 In Akasaka",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/At2500InAkasaka"
+  },
+  {
+    "name": "His",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/His"
+  },
+  {
+    "name": "I Became The Main Role Of A B L Drama",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/IBecameTheMainRoleOfABLDrama"
+  },
+  {
+    "name": "If Its With You",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/IfItsWithYou"
+  },
+  {
+    "name": "Love Is Like A Poison",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/LoveIsLikeAPoison"
+  },
+  {
+    "name": "Love Sea The Home For Lovers",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/LoveSeaTheHomeForLovers"
+  },
+  {
+    "name": "Minatos Laundromat",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/MinatosLaundromat"
+  },
+  {
+    "name": "Ossans Love",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/OssansLove"
+  },
+  {
+    "name": "Senpai",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/Senpai"
+  },
+  {
+    "name": "Takaras Treasure",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/TakarasTreasure"
+  },
+  {
+    "name": "The82 Second Rule",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/The82SecondRule"
+  },
+  {
+    "name": "The Reason Why He Fell In Love With Me",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/TheReasonWhyHeFellInLoveWithMe"
+  },
+  {
+    "name": "Kei X Yaku",
+    "country": "Japan",
+    "url": "https://www.world-of-bl.com/index.php/Japan/KeiXYaku"
+  },
+  {
+    "name": "A B O Desire",
+    "country": "China",
+    "url": "https://www.world-of-bl.com/index.php/China/ABODesire"
+  },
+  {
+    "name": "A Sketchy Job",
+    "country": "China",
+    "url": "https://www.world-of-bl.com/index.php/China/ASketchyJob"
+  },
+  {
+    "name": "Gu Jin Nan Qiu",
+    "country": "China",
+    "url": "https://www.world-of-bl.com/index.php/China/GuJinNanQiu"
+  },
+  {
+    "name": "Lost In Kyoto",
+    "country": "China",
+    "url": "https://www.world-of-bl.com/index.php/China/LostInKyoto"
+  },
+  {
+    "name": "My Girlfriends Boyfriend",
+    "country": "China",
+    "url": "https://www.world-of-bl.com/index.php/China/MyGirlfriendsBoyfriend"
+  },
+  {
+    "name": "Pluto Charon",
+    "country": "China",
+    "url": "https://www.world-of-bl.com/index.php/China/PlutoCharon"
+  },
+  {
+    "name": "Sammys Childrens Day",
+    "country": "China",
+    "url": "https://www.world-of-bl.com/index.php/China/SammysChildrensDay"
+  },
+  {
+    "name": "The Heart Of Tsukuyomi",
+    "country": "China",
+    "url": "https://www.world-of-bl.com/index.php/China/TheHeartOfTsukuyomi"
+  },
+  {
+    "name": "Trapped In Osaka",
+    "country": "China",
+    "url": "https://www.world-of-bl.com/index.php/China/TrappedInOsaka"
+  },
+  {
+    "name": "Youths In The Breeze",
+    "country": "China",
+    "url": "https://www.world-of-bl.com/index.php/China/YouthsInTheBreeze"
+  },
+  {
+    "name": "4 Thirties Gossip",
+    "country": "Hong Kong",
+    "url": "https://www.world-of-bl.com/index.php/HongKong/4ThirtiesGossip"
+  },
+  {
+    "name": "Boy Do You Still Love Me",
+    "country": "Hong Kong",
+    "url": "https://www.world-of-bl.com/index.php/HongKong/BoyDoYouStillLoveMe"
+  },
+  {
+    "name": "Boys Christmas",
+    "country": "Hong Kong",
+    "url": "https://www.world-of-bl.com/index.php/HongKong/BoysChristmas"
+  },
+  {
+    "name": "Hehe And He",
+    "country": "Hong Kong",
+    "url": "https://www.world-of-bl.com/index.php/HongKong/HeheAndHe"
+  },
+  {
+    "name": "Im A Fool For You",
+    "country": "Hong Kong",
+    "url": "https://www.world-of-bl.com/index.php/HongKong/ImAFoolForYou"
+  },
+  {
+    "name": "My Colleague At B L Shop",
+    "country": "Hong Kong",
+    "url": "https://www.world-of-bl.com/index.php/HongKong/MyColleagueAtBLShop"
+  },
+  {
+    "name": "Ossans Love H K",
+    "country": "Hong Kong",
+    "url": "https://www.world-of-bl.com/index.php/HongKong/OssansLoveHK"
+  },
+  {
+    "name": "90 Days",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/90Days"
+  },
+  {
+    "name": "Amore",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/Amore"
+  },
+  {
+    "name": "Art Of Love",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/ArtOfLove"
+  },
+  {
+    "name": "A Story To Remember",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/AStoryToRemember"
+  },
+  {
+    "name": "B Tween Us",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/BTweenUs"
+  },
+  {
+    "name": "Boyband Love",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/BoybandLove"
+  },
+  {
+    "name": "Dan Dan Soy",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/DanDanSoy"
+  },
+  {
+    "name": "Gotchu Fam",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/GotchuFam"
+  },
+  {
+    "name": "Heart Break Mountain",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/HeartBreakMountain"
+  },
+  {
+    "name": "Hermoso",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/Hermoso"
+  },
+  {
+    "name": "Hes Mine",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/HesMine"
+  },
+  {
+    "name": "Hook Up",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/HookUp"
+  },
+  {
+    "name": "If Tomorrow Never Comes",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/IfTomorrowNeverComes"
+  },
+  {
+    "name": "Indigo",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/Indigo"
+  },
+  {
+    "name": "I N N Love",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/INNLove"
+  },
+  {
+    "name": "In This Kaleidoscope World",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/InThisKaleidoscopeWorld"
+  },
+  {
+    "name": "Island",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/Island"
+  },
+  {
+    "name": "Love By Fehler",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/LoveByFehler"
+  },
+  {
+    "name": "Love Is",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/LoveIs"
+  },
+  {
+    "name": "Lust Never Lasts",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/LustNeverLasts"
+  },
+  {
+    "name": "Meet My Angel",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/MeetMyAngel"
+  },
+  {
+    "name": "My Extra Ordinary",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/MyExtraOrdinary"
+  },
+  {
+    "name": "My Fathers Lover",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/MyFathersLover"
+  },
+  {
+    "name": "Oh My Sexual",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/OhMySexual"
+  },
+  {
+    "name": "One Day Love",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/OneDayLove"
+  },
+  {
+    "name": "Paper Shirt",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/PaperShirt"
+  },
+  {
+    "name": "Pay Ibig",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/PayIbig"
+  },
+  {
+    "name": "Pisces",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/Pisces"
+  },
+  {
+    "name": "Saan Sana Tayo",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/SaanSanaTayo"
+  },
+  {
+    "name": "Safe Haven",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/SafeHaven"
+  },
+  {
+    "name": "Serpiente",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/Serpiente"
+  },
+  {
+    "name": "Simply Dont",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/SimplyDont"
+  },
+  {
+    "name": "Stay",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/Stay"
+  },
+  {
+    "name": "Strangers Kiss",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/StrangersKiss"
+  },
+  {
+    "name": "Swap Test",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/SwapTest"
+  },
+  {
+    "name": "The Alter",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/TheAlter"
+  },
+  {
+    "name": "The Heirs",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/TheHeirs"
+  },
+  {
+    "name": "Third And Josh",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/ThirdAndJosh"
+  },
+  {
+    "name": "Truly Very Yours",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/TrulyVeryYours"
+  },
+  {
+    "name": "Undying Love",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/UndyingLove"
+  },
+  {
+    "name": "Unguarded",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/Unguarded"
+  },
+  {
+    "name": "What If Its Us",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/WhatIfItsUs"
+  },
+  {
+    "name": "Win Jaimes Heart",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/WinJaimesHeart"
+  },
+  {
+    "name": "Cut",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/Cut"
+  },
+  {
+    "name": "Destined Fated",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/DestinedFated"
+  },
+  {
+    "name": "Kiss The Night",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/KissTheNight"
+  },
+  {
+    "name": "Man And Mine Alone",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/ManAndMineAlone"
+  },
+  {
+    "name": "My Chinito Prince",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/MyChinitoPrince"
+  },
+  {
+    "name": "Strange Heart",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/StrangeHeart"
+  },
+  {
+    "name": "Unexpected The Series",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/UnexpectedTheSeries"
+  },
+  {
+    "name": "Bed Weather",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/BedWeather"
+  },
+  {
+    "name": "Locked Heart This Lockdown",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/LockedHeartThisLockdown"
+  },
+  {
+    "name": "Lovers In Thailand",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/LoversInThailand"
+  },
+  {
+    "name": "Meet Me In Bangkok",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/MeetMeInBangkok"
+  },
+  {
+    "name": "My Dreamboy",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/MyDreamboy"
+  },
+  {
+    "name": "Oh My Gee",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/OhMyGee"
+  },
+  {
+    "name": "The Heart Accent Lamp",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/TheHeartAccentLamp"
+  },
+  {
+    "name": "The Lawyers Love",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/TheLawyersLove"
+  },
+  {
+    "name": "The Tale Of Tail",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/TheTaleOfTail"
+  },
+  {
+    "name": "Turbulence",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/Turbulence"
+  },
+  {
+    "name": "Until Forever",
+    "country": "Philippines",
+    "url": "https://www.world-of-bl.com/index.php/Philippines/UntilForever"
+  },
+  {
     "name": "Where We Were",
     "country": "Philippines",
     "url": "https://www.world-of-bl.com/index.php/Philippines/WhereWeWere"
   },
   {
-    "name": "Wish You Luck",
-    "country": "Thailand",
-    "url": "https://www.world-of-bl.com/index.php/Thai/WishYouLuck"
+    "name": "And That Is You",
+    "country": "Cambodia",
+    "url": "https://www.world-of-bl.com/index.php/Cambodia/AndThatIsYou"
+  },
+  {
+    "name": "Best Boyfriend",
+    "country": "Cambodia",
+    "url": "https://www.world-of-bl.com/index.php/Cambodia/BestBoyfriend"
+  },
+  {
+    "name": "Ending Friend",
+    "country": "Cambodia",
+    "url": "https://www.world-of-bl.com/index.php/Cambodia/EndingFriend"
+  },
+  {
+    "name": "The Memories",
+    "country": "Cambodia",
+    "url": "https://www.world-of-bl.com/index.php/Cambodia/TheMemories"
+  },
+  {
+    "name": "My Croissant",
+    "country": "Cambodia",
+    "url": "https://www.world-of-bl.com/index.php/Cambodia/MyCroissant"
+  },
+  {
+    "name": "H I Story1",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/HIStory1"
+  },
+  {
+    "name": "H I Story2 Right Or Wrong",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/HIStory2RightOrWrong"
+  },
+  {
+    "name": "H I Story2 Crossing The Line",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/HIStory2CrossingTheLine"
+  },
+  {
+    "name": "H I Story3 Trapped",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/HIStory3Trapped"
+  },
+  {
+    "name": "H I Story3 Make Our Days Count",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/HIStory3MakeOurDaysCount"
+  },
+  {
+    "name": "H I Story4 Close To You",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/HIStory4CloseToYou"
+  },
+  {
+    "name": "H I Story5 Love In The Future",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/HIStory5LoveInTheFuture"
+  },
+  {
+    "name": "Jump The Boy",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/JumpTheBoy"
+  },
+  {
+    "name": "Mermaid Sauna",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/MermaidSauna"
+  },
+  {
+    "name": "My Bromance Taiwan",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/MyBromanceTaiwan"
+  },
+  {
+    "name": "Our Memory",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/OurMemory"
+  },
+  {
+    "name": "The Promise Of The Soul",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/ThePromiseOfTheSoul"
+  },
+  {
+    "name": "Unknown",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/Unknown"
+  },
+  {
+    "name": "V I P Only",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/VIPOnly"
+  },
+  {
+    "name": "Skip School",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/SkipSchool"
+  },
+  {
+    "name": "Back To My First Love",
+    "country": "Taiwan",
+    "url": "https://www.world-of-bl.com/index.php/Taiwan/BackToMyFirstLove"
+  },
+  {
+    "name": "Activeboys",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/Activeboys"
+  },
+  {
+    "name": "A Love Song For My Beloved",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/ALoveSongForMyBeloved"
+  },
+  {
+    "name": "Follow My Sunshine",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/FollowMySunshine"
+  },
+  {
+    "name": "Fools",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/Fools"
+  },
+  {
+    "name": "Football Guys",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/FootballGuys"
+  },
+  {
+    "name": "Happiness Flies Far Away",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/HappinessFliesFarAway"
+  },
+  {
+    "name": "Hanoi Ilove You",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/HanoiIloveYou"
+  },
+  {
+    "name": "Life Gives Us Sadness",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/LifeGivesUsSadness"
+  },
+  {
+    "name": "Memory",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/Memory"
+  },
+  {
+    "name": "My Best Boyfriend",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/MyBestBoyfriend"
+  },
+  {
+    "name": "My Monster In Law",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/MyMonsterInLaw"
+  },
+  {
+    "name": "My Sky",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/MySky"
+  },
+  {
+    "name": "My Sweet Brother In Law",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/MySweetBrotherInLaw"
+  },
+  {
+    "name": "Nations Brother",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/NationsBrother"
+  },
+  {
+    "name": "Neighbor Guy",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/NeighborGuy"
+  },
+  {
+    "name": "People Come Later",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/PeopleComeLater"
+  },
+  {
+    "name": "Roommate Adam",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/RoommateAdam"
+  },
+  {
+    "name": "Schools Out Lets Date Now",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/SchoolsOutLetsDateNow"
+  },
+  {
+    "name": "Send Your Pain To The Wind",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/SendYourPainToTheWind"
+  },
+  {
+    "name": "Situationship In The City",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/SituationshipInTheCity"
+  },
+  {
+    "name": "Vi An",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/ViAn"
+  },
+  {
+    "name": "Beef Cupcakes And Him",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/BeefCupcakesAndHim"
+  },
+  {
+    "name": "Enemy I Love You",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/EnemyILoveYou"
+  },
+  {
+    "name": "The Next Door Crush",
+    "country": "Vietnam",
+    "url": "https://www.world-of-bl.com/index.php/Vietnam/TheNextDoorCrush"
+  },
+  {
+    "name": "Bagan Beginning",
+    "country": "Myanmar",
+    "url": "https://www.world-of-bl.com/index.php/Myanmar/BaganBeginning"
+  },
+  {
+    "name": "Healing Thingyan",
+    "country": "Myanmar",
+    "url": "https://www.world-of-bl.com/index.php/Myanmar/HealingThingyan"
+  },
+  {
+    "name": "My",
+    "country": "Myanmar",
+    "url": "https://www.world-of-bl.com/index.php/Myanmar/My"
+  },
+  {
+    "name": "Tick Tick Again",
+    "country": "Myanmar",
+    "url": "https://www.world-of-bl.com/index.php/Myanmar/TickTickAgain"
+  },
+  {
+    "name": "Tarrar",
+    "country": "Myanmar",
+    "url": "https://www.world-of-bl.com/index.php/Myanmar/Tarrar"
+  },
+  {
+    "name": "The Sting Of Lavender",
+    "country": "India",
+    "url": "https://www.world-of-bl.com/index.php/India/TheStingOfLavender"
+  },
+  {
+    "name": "Ballboy Tactics",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/BallboyTactics"
+  },
+  {
+    "name": "Between Doors",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/BetweenDoors"
+  },
+  {
+    "name": "Bound Contract",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/BoundContract"
+  },
+  {
+    "name": "Boysmate",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/Boysmate"
+  },
+  {
+    "name": "Discipline",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/Discipline"
+  },
+  {
+    "name": "F C Soldout",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/FCSoldout"
+  },
+  {
+    "name": "Fix The Error",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/FixTheError"
+  },
+  {
+    "name": "Heesu In Class2",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/HeesuInClass2"
+  },
+  {
+    "name": "My Idol",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/MyIdol"
+  },
+  {
+    "name": "Nobleman Ryus Wedding",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/NoblemanRyusWedding"
+  },
+  {
+    "name": "Roommates Of Poongduck304",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/RoommatesOfPoongduck304"
+  },
+  {
+    "name": "Somethings Not Right",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/SomethingsNotRight"
+  },
+  {
+    "name": "The Prosecutors Proposal",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/TheProsecutorsProposal"
+  },
+  {
+    "name": "Tune In",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/TuneIn"
+  },
+  {
+    "name": "Why R U Kor",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/WhyRUKor"
+  },
+  {
+    "name": "Winter Fever",
+    "country": "South Korea",
+    "url": "https://www.world-of-bl.com/index.php/SouthKorea/WinterFever"
   }
 ]
