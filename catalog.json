@@ -1,34 +1,4687 @@
-[
-  {
-    "id": "tt6084924",
-    "type": "series",
-    "name": "Attributes",
-    "year": 2014,
-    "imdb_id": "tt6084924",
-    "country": "Other Asia"
-  },
-  {
-    "id": "tt3216682",
-    "type": "series",
-    "name": "A to Z",
-    "year": 2014,
-    "imdb_id": "tt3216682",
-    "country": "Cambodia"
-  },
-  {
-    "id": "tt16098700",
-    "type": "series",
-    "name": "By Country",
-    "year": 2022,
-    "imdb_id": "tt16098700",
-    "country": "Cambodia"
-  },
-  {
-    "id": "tt37022512",
-    "type": "series",
-    "name": "Other",
-    "year": 2026,
-    "imdb_id": "tt37022512",
-    "country": "Cambodia"
-  }
-]
+{
+  "metas": [
+    {
+      "id": "tt34929415",
+      "type": "series",
+      "name": "A Dog And A Plane",
+      "imdb_id": "tt34929415",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt43311796",
+      "type": "series",
+      "name": "Are The Sexy Buttocks Not Good?",
+      "imdb_id": "tt43311796",
+      "country": "Japan",
+      "year": 2026
+    },
+    {
+      "id": "tt43408130",
+      "type": "series",
+      "name": "A Winter Sun Wakes The Wind In Spring Hills'",
+      "imdb_id": "tt43408130",
+      "country": "China",
+      "year": 2026
+    },
+    {
+      "id": "tt38856819",
+      "type": "series",
+      "name": "Be My Player Two",
+      "imdb_id": "tt38856819",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt40164372",
+      "type": "series",
+      "name": "Don't Be Too Emotional",
+      "imdb_id": "tt40164372",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt38916337",
+      "type": "series",
+      "name": "Knot",
+      "imdb_id": "tt38916337",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt41492869",
+      "type": "series",
+      "name": "Lost To Light",
+      "imdb_id": "tt41492869",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39378708",
+      "type": "series",
+      "name": "Love Destiny",
+      "imdb_id": "tt39378708",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39037171",
+      "type": "series",
+      "name": "Match Point",
+      "imdb_id": "tt39037171",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt43611974",
+      "type": "series",
+      "name": "My Summer Of You",
+      "imdb_id": "tt43611974",
+      "country": "Japan",
+      "year": 2026
+    },
+    {
+      "id": "tt40231500",
+      "type": "series",
+      "name": "The Edge Of Horizon",
+      "imdb_id": "tt40231500",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt43619367",
+      "type": "series",
+      "name": "The Servant Prince",
+      "imdb_id": "tt43619367",
+      "country": "Japan",
+      "year": 2026
+    },
+    {
+      "id": "tt39182733",
+      "type": "series",
+      "name": "When Light Fades",
+      "imdb_id": "tt39182733",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt43665188",
+      "type": "series",
+      "name": "Your Summer, My Storm",
+      "imdb_id": "tt43665188",
+      "country": "Japan",
+      "year": 2026
+    },
+    {
+      "id": "tt35932159",
+      "type": "series",
+      "name": "Your Third",
+      "imdb_id": "tt35932159",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt42051119",
+      "type": "series",
+      "name": "Zantiis",
+      "imdb_id": "tt42051119",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39029445",
+      "type": "series",
+      "name": "17th Spring",
+      "imdb_id": "tt39029445",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt37470676",
+      "type": "series",
+      "name": "Be My [Soul]mate",
+      "imdb_id": "tt37470676",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt39029748",
+      "type": "series",
+      "name": "Billionaire Biker",
+      "imdb_id": "tt39029748",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39029391",
+      "type": "series",
+      "name": "Cupid's Ghost",
+      "imdb_id": "tt39029391",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt38661247",
+      "type": "series",
+      "name": "Eyes On You",
+      "imdb_id": "tt38661247",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt32361930",
+      "type": "series",
+      "name": "Good Boy",
+      "imdb_id": "tt32361930",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt39029588",
+      "type": "series",
+      "name": "Gunshot",
+      "imdb_id": "tt39029588",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt1587678",
+      "type": "series",
+      "name": "Happy Ending",
+      "imdb_id": "tt1587678",
+      "country": "Thailand",
+      "year": 2011
+    },
+    {
+      "id": "tt39029438",
+      "type": "series",
+      "name": "How To Survive My CEO",
+      "imdb_id": "tt39029438",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt35932292",
+      "type": "series",
+      "name": "Hug E-Lhee",
+      "imdb_id": "tt35932292",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39029322",
+      "type": "series",
+      "name": "I Will Always Save You",
+      "imdb_id": "tt39029322",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39029703",
+      "type": "series",
+      "name": "Kiss Me, Remember?",
+      "imdb_id": "tt39029703",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt37937685",
+      "type": "series",
+      "name": "Lottery Doctor",
+      "imdb_id": "tt37937685",
+      "country": "Thailand"
+    },
+    {
+      "id": "tt39372086",
+      "type": "series",
+      "name": "Love Harvest",
+      "imdb_id": "tt39372086",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39029630",
+      "type": "series",
+      "name": "Lovers & Gangsters",
+      "imdb_id": "tt39029630",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt35932267",
+      "type": "series",
+      "name": "Magic Lover",
+      "imdb_id": "tt35932267",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt35932166",
+      "type": "series",
+      "name": "Mr. Fanboy",
+      "imdb_id": "tt35932166",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39029682",
+      "type": "series",
+      "name": "My Professional Boyfriend",
+      "imdb_id": "tt39029682",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt38771152",
+      "type": "series",
+      "name": "Ocean's Heart",
+      "imdb_id": "tt38771152",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39029458",
+      "type": "series",
+      "name": "Plan B To U",
+      "imdb_id": "tt39029458",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt37511063",
+      "type": "series",
+      "name": "Police In Love",
+      "imdb_id": "tt37511063",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt35932242",
+      "type": "series",
+      "name": "Restart",
+      "imdb_id": "tt35932242",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39029464",
+      "type": "series",
+      "name": "Roommate Chaos",
+      "imdb_id": "tt39029464",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt38268518",
+      "type": "series",
+      "name": "Swing Kick",
+      "imdb_id": "tt38268518",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt34934743",
+      "type": "series",
+      "name": "The Hell Guard",
+      "imdb_id": "tt34934743",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt39029343",
+      "type": "series",
+      "name": "The Invisible Dragon",
+      "imdb_id": "tt39029343",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt37788298",
+      "type": "series",
+      "name": "The Love Matter",
+      "imdb_id": "tt37788298",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt39039720",
+      "type": "series",
+      "name": "The Spooky Love Tale",
+      "imdb_id": "tt39039720",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt28212267",
+      "type": "series",
+      "name": "Time Zone",
+      "imdb_id": "tt28212267",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt17513352",
+      "type": "series",
+      "name": "Twenty One",
+      "imdb_id": "tt17513352",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt39029359",
+      "type": "series",
+      "name": "Unlucky Bae",
+      "imdb_id": "tt39029359",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39035969",
+      "type": "series",
+      "name": "Weirdo-101",
+      "imdb_id": "tt39035969",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39035818",
+      "type": "series",
+      "name": "Write You Again",
+      "imdb_id": "tt39035818",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39039439",
+      "type": "series",
+      "name": "You Maniac",
+      "imdb_id": "tt39039439",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt35932178",
+      "type": "series",
+      "name": "You(r)Tuber",
+      "imdb_id": "tt35932178",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt12897880",
+      "type": "series",
+      "name": "2gether / (Still) 2gether",
+      "imdb_id": "tt12897880",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt22504548",
+      "type": "series",
+      "name": "2Wish",
+      "imdb_id": "tt22504548",
+      "country": "Thailand",
+      "year": 2019
+    },
+    {
+      "id": "tt11025732",
+      "type": "series",
+      "name": "3 Will Be Free",
+      "imdb_id": "tt11025732",
+      "country": "Thailand",
+      "year": 2019
+    },
+    {
+      "id": "tt37988873",
+      "type": "series",
+      "name": "4 Destiny",
+      "imdb_id": "tt37988873",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt32831881",
+      "type": "series",
+      "name": "4 Minutes",
+      "imdb_id": "tt32831881",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt31261808",
+      "type": "series",
+      "name": "7 Days Before Valentine",
+      "imdb_id": "tt31261808",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt15758362",
+      "type": "series",
+      "name": "7 Project",
+      "imdb_id": "tt15758362",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt37529549",
+      "type": "series",
+      "name": "10 Things I Want...Before I Turn 40",
+      "imdb_id": "tt37529549",
+      "country": "Japan",
+      "year": 2025
+    },
+    {
+      "id": "tt21607016",
+      "type": "series",
+      "name": "180 Degree Longitude",
+      "imdb_id": "tt21607016",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt14925956",
+      "type": "series",
+      "name": "609 Bedtime Story",
+      "imdb_id": "tt14925956",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt31188808",
+      "type": "series",
+      "name": "1000 Years Old",
+      "imdb_id": "tt31188808",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt8090194",
+      "type": "series",
+      "name": "A Blue Sky",
+      "imdb_id": "tt8090194",
+      "country": "Cambodia",
+      "year": 2012
+    },
+    {
+      "id": "tt37547864",
+      "type": "series",
+      "name": "ABO Desire",
+      "imdb_id": "tt37547864",
+      "country": "China",
+      "year": 2025
+    },
+    {
+      "id": "tt23903462",
+      "type": "series",
+      "name": "A Boss And A Babe",
+      "imdb_id": "tt23903462",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt21935534",
+      "type": "series",
+      "name": "About Youth",
+      "imdb_id": "tt21935534",
+      "country": "Taiwan",
+      "year": 2022
+    },
+    {
+      "id": "tt30399474",
+      "type": "series",
+      "name": "Absolute Zero",
+      "imdb_id": "tt30399474",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt1042979",
+      "type": "series",
+      "name": "A Chance To Love",
+      "imdb_id": "tt1042979",
+      "country": "Thailand",
+      "year": 2007
+    },
+    {
+      "id": "tt29345289",
+      "type": "series",
+      "name": "Accomplishment Fudanshi Bartender",
+      "imdb_id": "tt29345289",
+      "country": "Japan",
+      "year": 2022
+    },
+    {
+      "id": "tt33078635",
+      "type": "series",
+      "name": "Addicted Heroin",
+      "imdb_id": "tt33078635",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt8927478",
+      "type": "series",
+      "name": "Advance Bravely",
+      "imdb_id": "tt8927478",
+      "country": "China",
+      "year": 2017
+    },
+    {
+      "id": "tt24244286",
+      "type": "series",
+      "name": "Ai Long Nhai",
+      "imdb_id": "tt24244286",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt31778876",
+      "type": "series",
+      "name": "Although I Love You, And You?",
+      "imdb_id": "tt31778876",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt14346954",
+      "type": "series",
+      "name": "A Man Who Defies World Of BL",
+      "imdb_id": "tt14346954",
+      "country": "Japan",
+      "year": 2021
+    },
+    {
+      "id": "tt29738782",
+      "type": "series",
+      "name": "Anti Reset",
+      "imdb_id": "tt29738782",
+      "country": "Taiwan",
+      "year": 2024
+    },
+    {
+      "id": "tt36012709",
+      "type": "series",
+      "name": "A Perfect Match",
+      "imdb_id": "tt36012709",
+      "country": "Taiwan",
+      "year": 2025
+    },
+    {
+      "id": "tt29295880",
+      "type": "series",
+      "name": "A Secretly Love",
+      "imdb_id": "tt29295880",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt31616178",
+      "type": "series",
+      "name": "At 25:00, In Akasaka",
+      "imdb_id": "tt31616178",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt38221201",
+      "type": "series",
+      "name": "Awaiting Dawn",
+      "imdb_id": "tt38221201",
+      "country": "Vietnam",
+      "year": 2025
+    },
+    {
+      "id": "tt39379670",
+      "type": "series",
+      "name": "Awakening The Steppe",
+      "imdb_id": "tt39379670",
+      "country": "China",
+      "year": 2026
+    },
+    {
+      "id": "tt2394216",
+      "type": "series",
+      "name": "Bad Brother",
+      "imdb_id": "tt2394216",
+      "country": "Thailand",
+      "year": 2013
+    },
+    {
+      "id": "tt13660938",
+      "type": "series",
+      "name": "Bad Buddy",
+      "imdb_id": "tt13660938",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt33332566",
+      "type": "series",
+      "name": "Bad Guy My Boss",
+      "imdb_id": "tt33332566",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt30988019",
+      "type": "series",
+      "name": "Bad Romance",
+      "imdb_id": "tt30988019",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt43253311",
+      "type": "series",
+      "name": "Bad Roommate",
+      "imdb_id": "tt43253311",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt34402488",
+      "type": "series",
+      "name": "Bad To Bed",
+      "imdb_id": "tt34402488",
+      "country": "Taiwan",
+      "year": 2024
+    },
+    {
+      "id": "tt30689360",
+      "type": "series",
+      "name": "Bake Me Please",
+      "imdb_id": "tt30689360",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt1708951",
+      "type": "series",
+      "name": "Baker Boys",
+      "imdb_id": "tt1708951",
+      "country": "Thailand",
+      "year": 2011
+    },
+    {
+      "id": "tt33050131",
+      "type": "series",
+      "name": "Battle Of The Writers",
+      "imdb_id": "tt33050131",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt21281828",
+      "type": "series",
+      "name": "Beautiful Scars",
+      "imdb_id": "tt21281828",
+      "country": "Philippines",
+      "year": 2022
+    },
+    {
+      "id": "tt12739058",
+      "type": "series",
+      "name": "Because Of You",
+      "imdb_id": "tt12739058",
+      "country": "Taiwan",
+      "year": 2020
+    },
+    {
+      "id": "tt27040867",
+      "type": "series",
+      "name": "Bed Friend",
+      "imdb_id": "tt27040867",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt42448350",
+      "type": "series",
+      "name": "Be Friends First",
+      "imdb_id": "tt42448350",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt9109686",
+      "type": "series",
+      "name": "Beloved Enemy",
+      "imdb_id": "tt9109686",
+      "country": "China",
+      "year": 2017
+    },
+    {
+      "id": "tt14599888",
+      "type": "series",
+      "name": "Be Loved In House: I Do",
+      "imdb_id": "tt14599888",
+      "country": "Taiwan",
+      "year": 2021
+    },
+    {
+      "id": "tt28275597",
+      "type": "series",
+      "name": "Be Mine, Superstar",
+      "imdb_id": "tt28275597",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt16359848",
+      "type": "series",
+      "name": "Be My Favorite",
+      "imdb_id": "tt16359848",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt38990466",
+      "type": "series",
+      "name": "Beside You",
+      "imdb_id": "tt38990466",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt0090396",
+      "type": "series",
+      "name": "Better Days",
+      "imdb_id": "tt0090396",
+      "country": "Philippines",
+      "year": 1986
+    },
+    {
+      "id": "tt27792190",
+      "type": "series",
+      "name": "Between Us",
+      "imdb_id": "tt27792190",
+      "country": "Philippines",
+      "year": 2024
+    },
+    {
+      "id": "tt23871680",
+      "type": "series",
+      "name": "Beyond The Star",
+      "imdb_id": "tt23871680",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt32400394",
+      "type": "series",
+      "name": "Be Your Star",
+      "imdb_id": "tt32400394",
+      "country": "Vietnam",
+      "year": 2024
+    },
+    {
+      "id": "tt23834158",
+      "type": "series",
+      "name": "Big Dragon",
+      "imdb_id": "tt23834158",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt1790033",
+      "type": "series",
+      "name": "Bite Me",
+      "imdb_id": "tt1790033",
+      "country": "Thailand",
+      "year": 2010
+    },
+    {
+      "id": "tt43611680",
+      "type": "series",
+      "name": "Blazing Him",
+      "imdb_id": "tt43611680",
+      "country": "China",
+      "year": 2026
+    },
+    {
+      "id": "tt35660317",
+      "type": "series",
+      "name": "Blessing Of Love",
+      "imdb_id": "tt35660317",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt34071601",
+      "type": "series",
+      "name": "Blue Canvas Of Youthful Days",
+      "imdb_id": "tt34071601",
+      "country": "China",
+      "year": 2024
+    },
+    {
+      "id": "tt5127460",
+      "type": "series",
+      "name": "Boyband",
+      "imdb_id": "tt5127460",
+      "country": "Thailand",
+      "year": 2016
+    },
+    {
+      "id": "tt34868992",
+      "type": "series",
+      "name": "Boys In Love",
+      "imdb_id": "tt34868992",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt13203534",
+      "type": "series",
+      "name": "Boys' Lockdown",
+      "imdb_id": "tt13203534",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt8693266",
+      "type": "series",
+      "name": "Boy Toy",
+      "imdb_id": "tt8693266",
+      "country": "Cambodia",
+      "year": 2019
+    },
+    {
+      "id": "tt0185906",
+      "type": "series",
+      "name": "Brothers",
+      "imdb_id": "tt0185906",
+      "country": "Thailand",
+      "year": 2001
+    },
+    {
+      "id": "tt34919837",
+      "type": "series",
+      "name": "Burnout Syndrome",
+      "imdb_id": "tt34919837",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt34347006",
+      "type": "series",
+      "name": "Caged Again",
+      "imdb_id": "tt34347006",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt12251992",
+      "type": "series",
+      "name": "Call It What You Want",
+      "imdb_id": "tt12251992",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt23840230",
+      "type": "series",
+      "name": "Candy Color Paradox",
+      "imdb_id": "tt23840230",
+      "country": "Japan",
+      "year": 2022
+    },
+    {
+      "id": "tt30293074",
+      "type": "series",
+      "name": "Can This Be Love?",
+      "imdb_id": "tt30293074",
+      "country": "Philippines",
+      "year": 2026
+    },
+    {
+      "id": "tt12928480",
+      "type": "series",
+      "name": "Capture Lover",
+      "imdb_id": "tt12928480",
+      "country": "China",
+      "year": 2020
+    },
+    {
+      "id": "tt34929431",
+      "type": "series",
+      "name": "Cat For Cash",
+      "imdb_id": "tt34929431",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt32758863",
+      "type": "series",
+      "name": "Century Of Love",
+      "imdb_id": "tt32758863",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt27580377",
+      "type": "series",
+      "name": "Chains Of Heart",
+      "imdb_id": "tt27580377",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt9131136",
+      "type": "series",
+      "name": "Cheat",
+      "imdb_id": "tt9131136",
+      "country": "Philippines",
+      "year": 2019
+    },
+    {
+      "id": "tt0088493",
+      "type": "series",
+      "name": "Check Out",
+      "imdb_id": "tt0088493",
+      "country": "Thailand",
+      "year": 1985
+    },
+    {
+      "id": "tt24640240",
+      "type": "series",
+      "name": "Cherry Magic",
+      "imdb_id": "tt24640240",
+      "country": "Japan",
+      "year": 2023
+    },
+    {
+      "id": "tt32159578",
+      "type": "series",
+      "name": "City Of Stars",
+      "imdb_id": "tt32159578",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt20860492",
+      "type": "series",
+      "name": "Clik Clak Clok",
+      "imdb_id": "tt20860492",
+      "country": "Philippines",
+      "year": 2022
+    },
+    {
+      "id": "tt19362818",
+      "type": "series",
+      "name": "Close Friend",
+      "imdb_id": "tt19362818",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt37918790",
+      "type": "series",
+      "name": "Club Sapan Fine 2",
+      "imdb_id": "tt37918790",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt21988062",
+      "type": "series",
+      "name": "Coffee Melody",
+      "imdb_id": "tt21988062",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt30235800",
+      "type": "series",
+      "name": "Colorful Melody",
+      "imdb_id": "tt30235800",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt40392203",
+      "type": "series",
+      "name": "Contrast",
+      "imdb_id": "tt40392203",
+      "country": "Japan",
+      "year": 2026
+    },
+    {
+      "id": "tt24554466",
+      "type": "series",
+      "name": "Cooking Crush",
+      "imdb_id": "tt24554466",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt33090710",
+      "type": "series",
+      "name": "Cosmetic Playlover",
+      "imdb_id": "tt33090710",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt39328163",
+      "type": "series",
+      "name": "Countdown To Yes",
+      "imdb_id": "tt39328163",
+      "country": "Japan",
+      "year": 2026
+    },
+    {
+      "id": "tt26757359",
+      "type": "series",
+      "name": "Counter Attack",
+      "imdb_id": "tt26757359",
+      "country": "China",
+      "year": 2015
+    },
+    {
+      "id": "tt39221389",
+      "type": "series",
+      "name": "Country Boy",
+      "imdb_id": "tt39221389",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt18647674",
+      "type": "series",
+      "name": "Craving You",
+      "imdb_id": "tt18647674",
+      "country": "Taiwan",
+      "year": 2020
+    },
+    {
+      "id": "tt33203912",
+      "type": "series",
+      "name": "Crazy Handsome Rich",
+      "imdb_id": "tt33203912",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt39893694",
+      "type": "series",
+      "name": "Crazy Love, Moo-Moo!",
+      "imdb_id": "tt39893694",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt20258600",
+      "type": "series",
+      "name": "Crush On You",
+      "imdb_id": "tt20258600",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt16410470",
+      "type": "series",
+      "name": "Cupid's Last Wish",
+      "imdb_id": "tt16410470",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt18303546",
+      "type": "series",
+      "name": "Cutie Pie",
+      "imdb_id": "tt18303546",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt24188150",
+      "type": "series",
+      "name": "Dangerous Romance",
+      "imdb_id": "tt24188150",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt34929457",
+      "type": "series",
+      "name": "Dare You To Death",
+      "imdb_id": "tt34929457",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt10462034",
+      "type": "series",
+      "name": "Dark Blue And Moonlight",
+      "imdb_id": "tt10462034",
+      "country": "Taiwan",
+      "year": 2017
+    },
+    {
+      "id": "tt11546816",
+      "type": "series",
+      "name": "Dark Blue Kiss",
+      "imdb_id": "tt11546816",
+      "country": "Thailand",
+      "year": 2019
+    },
+    {
+      "id": "tt0058795",
+      "type": "series",
+      "name": "Dating Game",
+      "imdb_id": "tt0058795",
+      "country": "Thailand",
+      "year": 1965
+    },
+    {
+      "id": "tt30581662",
+      "type": "series",
+      "name": "Dead Friend Forever",
+      "imdb_id": "tt30581662",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt20902398",
+      "type": "series",
+      "name": "Dear Doctor, I'm Coming For Soul",
+      "imdb_id": "tt20902398",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt43551392",
+      "type": "series",
+      "name": "Deep In",
+      "imdb_id": "tt43551392",
+      "country": "China",
+      "year": 2026
+    },
+    {
+      "id": "tt31633032",
+      "type": "series",
+      "name": "Deep Night",
+      "imdb_id": "tt31633032",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt37522840",
+      "type": "series",
+      "name": "Depth Of Field",
+      "imdb_id": "tt37522840",
+      "country": "Japan",
+      "year": 2025
+    },
+    {
+      "id": "tt26915869",
+      "type": "series",
+      "name": "Destiny Seeker",
+      "imdb_id": "tt26915869",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt36217654",
+      "type": "series",
+      "name": "Dirty Rainbows",
+      "imdb_id": "tt36217654",
+      "country": "Thailand"
+    },
+    {
+      "id": "tt33796667",
+      "type": "series",
+      "name": "Diving Into Love",
+      "imdb_id": "tt33796667",
+      "country": "Philippines",
+      "year": 2024
+    },
+    {
+      "id": "tt20515564",
+      "type": "series",
+      "name": "DNA Says Love You",
+      "imdb_id": "tt20515564",
+      "country": "Taiwan",
+      "year": 2022
+    },
+    {
+      "id": "tt36351994",
+      "type": "series",
+      "name": "Doctor's Mine",
+      "imdb_id": "tt36351994",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt32094143",
+      "type": "series",
+      "name": "DogBro",
+      "imdb_id": "tt32094143",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt15452616",
+      "type": "series",
+      "name": "Don't Say No",
+      "imdb_id": "tt15452616",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt42941478",
+      "type": "series",
+      "name": "Dual Stars",
+      "imdb_id": "tt42941478",
+      "country": "China",
+      "year": 2026
+    },
+    {
+      "id": "tt35932199",
+      "type": "series",
+      "name": "Duang With You",
+      "imdb_id": "tt35932199",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt13666680",
+      "type": "series",
+      "name": "Enchanté",
+      "imdb_id": "tt13666680",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt12879562",
+      "type": "series",
+      "name": "En Of Love",
+      "imdb_id": "tt12879562",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt35006637",
+      "type": "series",
+      "name": "Eternal Butler",
+      "imdb_id": "tt35006637",
+      "country": "Taiwan",
+      "year": 2024
+    },
+    {
+      "id": "tt23712252",
+      "type": "series",
+      "name": "Eternal Yesterday",
+      "imdb_id": "tt23712252",
+      "country": "Japan",
+      "year": 2022
+    },
+    {
+      "id": "tt32374966",
+      "type": "series",
+      "name": "Even After",
+      "imdb_id": "tt32374966",
+      "country": "Philippines",
+      "year": 2024
+    },
+    {
+      "id": "tt21430478",
+      "type": "series",
+      "name": "Even Sun",
+      "imdb_id": "tt21430478",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt3312378",
+      "type": "series",
+      "name": "Ever After",
+      "imdb_id": "tt3312378",
+      "country": "Philippines",
+      "year": 2013
+    },
+    {
+      "id": "tt33810516",
+      "type": "series",
+      "name": "Every You, Every Me",
+      "imdb_id": "tt33810516",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt35507345",
+      "type": "series",
+      "name": "Exclusive Love",
+      "imdb_id": "tt35507345",
+      "country": "Taiwan",
+      "year": 2025
+    },
+    {
+      "id": "tt34895074",
+      "type": "series",
+      "name": "Eye Contact",
+      "imdb_id": "tt34895074",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt23839214",
+      "type": "series",
+      "name": "Fahlanruk",
+      "imdb_id": "tt23839214",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt41986837",
+      "type": "series",
+      "name": "Fake Fact Lips",
+      "imdb_id": "tt41986837",
+      "country": "Japan",
+      "year": 2026
+    },
+    {
+      "id": "tt40768745",
+      "type": "series",
+      "name": "Feel What You Feel",
+      "imdb_id": "tt40768745",
+      "country": "China",
+      "year": 2026
+    },
+    {
+      "id": "tt31888485",
+      "type": "series",
+      "name": "Fight For Love",
+      "imdb_id": "tt31888485",
+      "country": "Vietnam",
+      "year": 2025
+    },
+    {
+      "id": "tt36368361",
+      "type": "series",
+      "name": "Fight For You",
+      "imdb_id": "tt36368361",
+      "country": "Taiwan",
+      "year": 2025
+    },
+    {
+      "id": "tt32984886",
+      "type": "series",
+      "name": "First Note Of Love",
+      "imdb_id": "tt32984886",
+      "country": "Taiwan",
+      "year": 2024
+    },
+    {
+      "id": "tt14086344",
+      "type": "series",
+      "name": "Fish Upon The Sky",
+      "imdb_id": "tt14086344",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt35433848",
+      "type": "series",
+      "name": "Flirt Milk",
+      "imdb_id": "tt35433848",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt40203669",
+      "type": "series",
+      "name": "Flower Boy",
+      "imdb_id": "tt40203669",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt43248791",
+      "type": "series",
+      "name": "Forever Love",
+      "imdb_id": "tt43248791",
+      "country": "Vietnam",
+      "year": 2026
+    },
+    {
+      "id": "tt30797941",
+      "type": "series",
+      "name": "For Him",
+      "imdb_id": "tt30797941",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt43702817",
+      "type": "series",
+      "name": "For You A Thousand Times",
+      "imdb_id": "tt43702817",
+      "country": "Vietnam",
+      "year": 2026
+    },
+    {
+      "id": "tt33378111",
+      "type": "series",
+      "name": "Fourever You",
+      "imdb_id": "tt33378111",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt32273000",
+      "type": "series",
+      "name": "Friend Or Lover",
+      "imdb_id": "tt32273000",
+      "country": "Taiwan",
+      "year": 2024
+    },
+    {
+      "id": "tt43904993",
+      "type": "series",
+      "name": "Friend Zone",
+      "imdb_id": "tt43904993",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt12508898",
+      "type": "series",
+      "name": "Gameboys",
+      "imdb_id": "tt12508898",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt0397149",
+      "type": "series",
+      "name": "Game Over",
+      "imdb_id": "tt0397149",
+      "country": "Philippines",
+      "year": 2004
+    },
+    {
+      "id": "tt35681708",
+      "type": "series",
+      "name": "Gelboys",
+      "imdb_id": "tt35681708",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt13279760",
+      "type": "series",
+      "name": "Gen Y",
+      "imdb_id": "tt13279760",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt23727454",
+      "type": "series",
+      "name": "Ghost Host, Ghost House",
+      "imdb_id": "tt23727454",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt10479420",
+      "type": "series",
+      "name": "Given",
+      "imdb_id": "tt10479420",
+      "country": "Japan",
+      "year": 2019
+    },
+    {
+      "id": "tt32237678",
+      "type": "series",
+      "name": "Goddess Bless You From Death",
+      "imdb_id": "tt32237678",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt29613564",
+      "type": "series",
+      "name": "Golden Blood",
+      "imdb_id": "tt29613564",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt10556002",
+      "type": "series",
+      "name": "Great Men Academy",
+      "imdb_id": "tt10556002",
+      "country": "Thailand",
+      "year": 2019
+    },
+    {
+      "id": "tt13759828",
+      "type": "series",
+      "name": "Happenstance",
+      "imdb_id": "tt13759828",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt0364812",
+      "type": "series",
+      "name": "Happy Family",
+      "imdb_id": "tt0364812",
+      "country": "Vietnam",
+      "year": 2003
+    },
+    {
+      "id": "tt33070403",
+      "type": "series",
+      "name": "Happy Of The End",
+      "imdb_id": "tt33070403",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt23389752",
+      "type": "series",
+      "name": "Hard Love Mission",
+      "imdb_id": "tt23389752",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt34366049",
+      "type": "series",
+      "name": "Haunted Hearts",
+      "imdb_id": "tt34366049",
+      "country": "Philippines",
+      "year": 2024
+    },
+    {
+      "id": "tt34929482",
+      "type": "series",
+      "name": "Head 2 Head",
+      "imdb_id": "tt34929482",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt12545754",
+      "type": "series",
+      "name": "Hello Stranger",
+      "imdb_id": "tt12545754",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt10610752",
+      "type": "series",
+      "name": "He's Coming To Me",
+      "imdb_id": "tt10610752",
+      "country": "Thailand",
+      "year": 2019
+    },
+    {
+      "id": "tt12735244",
+      "type": "series",
+      "name": "He, She, It",
+      "imdb_id": "tt12735244",
+      "country": "Thailand",
+      "year": 2019
+    },
+    {
+      "id": "tt37994223",
+      "type": "series",
+      "name": "He's Mine",
+      "imdb_id": "tt37994223",
+      "country": "Philippines",
+      "year": 2025
+    },
+    {
+      "id": "tt15289042",
+      "type": "series",
+      "name": "Hey! First Love",
+      "imdb_id": "tt15289042",
+      "country": "Vietnam",
+      "year": 2022
+    },
+    {
+      "id": "tt24184526",
+      "type": "series",
+      "name": "Hidden Agenda",
+      "imdb_id": "tt24184526",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt28076458",
+      "type": "series",
+      "name": "Hidden Love",
+      "imdb_id": "tt28076458",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt10360630",
+      "type": "series",
+      "name": "His - I Didn't Think...Fall In Love",
+      "imdb_id": "tt10360630",
+      "country": "Japan",
+      "year": 2019
+    },
+    {
+      "id": "tt11958648",
+      "type": "series",
+      "name": "HIStory 1",
+      "imdb_id": "tt11958648",
+      "country": "Taiwan",
+      "year": 2020
+    },
+    {
+      "id": "tt12453456",
+      "type": "series",
+      "name": "HIStory 2: Right Or Wrong",
+      "imdb_id": "tt12453456",
+      "country": "Taiwan",
+      "year": 2019
+    },
+    {
+      "id": "tt36375646",
+      "type": "series",
+      "name": "HIStory 4: Close To You",
+      "imdb_id": "tt36375646",
+      "country": "Taiwan",
+      "year": 2025
+    },
+    {
+      "id": "tt26490696",
+      "type": "series",
+      "name": "Hit, Bite, Love",
+      "imdb_id": "tt26490696",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt39387876",
+      "type": "series",
+      "name": "Hometown Embrace",
+      "imdb_id": "tt39387876",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt13249194",
+      "type": "series",
+      "name": "Honey Sir",
+      "imdb_id": "tt13249194",
+      "country": "China",
+      "year": 2020
+    },
+    {
+      "id": "tt11061514",
+      "type": "series",
+      "name": "Hook Up (Season 2)",
+      "imdb_id": "tt11061514",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt10426192",
+      "type": "series",
+      "name": "Hotel Stars",
+      "imdb_id": "tt10426192",
+      "country": "Thailand",
+      "year": 2019
+    },
+    {
+      "id": "tt28092405",
+      "type": "series",
+      "name": "House Of Stars",
+      "imdb_id": "tt28092405",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt29332871",
+      "type": "series",
+      "name": "I Cannot Reach You",
+      "imdb_id": "tt29332871",
+      "country": "Japan",
+      "year": 2023
+    },
+    {
+      "id": "tt15451876",
+      "type": "series",
+      "name": "I Feel You Linger In The Air",
+      "imdb_id": "tt15451876",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt13392648",
+      "type": "series",
+      "name": "If I Love A Boy",
+      "imdb_id": "tt13392648",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt29427812",
+      "type": "series",
+      "name": "If It's With You",
+      "imdb_id": "tt29427812",
+      "country": "Japan",
+      "year": 2023
+    },
+    {
+      "id": "tt32832426",
+      "type": "series",
+      "name": "I Hear The Sunspot",
+      "imdb_id": "tt32832426",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt35502099",
+      "type": "series",
+      "name": "I'll Turn Back This Time",
+      "imdb_id": "tt35502099",
+      "country": "China",
+      "year": 2025
+    },
+    {
+      "id": "tt15246068",
+      "type": "series",
+      "name": "I'm A Fool For You",
+      "imdb_id": "tt15246068",
+      "country": "Other Asia",
+      "year": 2021
+    },
+    {
+      "id": "tt35351373",
+      "type": "series",
+      "name": "Impression Of Youth",
+      "imdb_id": "tt35351373",
+      "country": "Taiwan",
+      "year": 2025
+    },
+    {
+      "id": "tt32227052",
+      "type": "series",
+      "name": "I'm The Most Beautiful Count",
+      "imdb_id": "tt32227052",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt29459185",
+      "type": "series",
+      "name": "I'm Your Boyy",
+      "imdb_id": "tt29459185",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt1864750",
+      "type": "series",
+      "name": "In Between",
+      "imdb_id": "tt1864750",
+      "country": "Philippines",
+      "year": 2013
+    },
+    {
+      "id": "tt11377322",
+      "type": "series",
+      "name": "Influencers",
+      "imdb_id": "tt11377322",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt13276752",
+      "type": "series",
+      "name": "Ingredients",
+      "imdb_id": "tt13276752",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt0896781",
+      "type": "series",
+      "name": "INN Love",
+      "imdb_id": "tt0896781",
+      "country": "Philippines",
+      "year": 2007
+    },
+    {
+      "id": "tt17677860",
+      "type": "series",
+      "name": "Innocent",
+      "imdb_id": "tt17677860",
+      "country": "Taiwan",
+      "year": 2024
+    },
+    {
+      "id": "tt2934916",
+      "type": "series",
+      "name": "Inseparable",
+      "imdb_id": "tt2934916",
+      "country": "Philippines",
+      "year": 2013
+    },
+    {
+      "id": "tt34935151",
+      "type": "series",
+      "name": "Interminable",
+      "imdb_id": "tt34935151",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt19045982",
+      "type": "series",
+      "name": "In Your Heart",
+      "imdb_id": "tt19045982",
+      "country": "China",
+      "year": 2022
+    },
+    {
+      "id": "tt32851042",
+      "type": "series",
+      "name": "I Saw You In My Dream",
+      "imdb_id": "tt32851042",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt13368804",
+      "type": "series",
+      "name": "I Told Sunset About You",
+      "imdb_id": "tt13368804",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt26624559",
+      "type": "series",
+      "name": "I Will Knock You",
+      "imdb_id": "tt26624559",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt0207889",
+      "type": "series",
+      "name": "Jack & Jill",
+      "imdb_id": "tt0207889",
+      "country": "Philippines",
+      "year": 1999
+    },
+    {
+      "id": "tt33054648",
+      "type": "series",
+      "name": "Jack & Joker",
+      "imdb_id": "tt33054648",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt26659860",
+      "type": "series",
+      "name": "Jack O' Frost",
+      "imdb_id": "tt26659860",
+      "country": "Japan",
+      "year": 2023
+    },
+    {
+      "id": "tt41878195",
+      "type": "series",
+      "name": "Journey With You",
+      "imdb_id": "tt41878195",
+      "country": "China",
+      "year": 2026
+    },
+    {
+      "id": "tt23802712",
+      "type": "series",
+      "name": "Kabe-Koji-Nekoyashiki-Kun Desires",
+      "imdb_id": "tt23802712",
+      "country": "Japan",
+      "year": 2022
+    },
+    {
+      "id": "tt33258229",
+      "type": "series",
+      "name": "Khemjira",
+      "imdb_id": "tt33258229",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt29919840",
+      "type": "series",
+      "name": "Kidnap",
+      "imdb_id": "tt29919840",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt37989030",
+      "type": "series",
+      "name": "Kill To Love",
+      "imdb_id": "tt37989030",
+      "country": "China",
+      "year": 2025
+    },
+    {
+      "id": "tt19370256",
+      "type": "series",
+      "name": "KinnPorsche",
+      "imdb_id": "tt19370256",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt27503058",
+      "type": "series",
+      "name": "Kiseki Dear To Me",
+      "imdb_id": "tt27503058",
+      "country": "Taiwan",
+      "year": 2023
+    },
+    {
+      "id": "tt8364802",
+      "type": "series",
+      "name": "Kiss / Kiss Me Again",
+      "imdb_id": "tt8364802",
+      "country": "Thailand",
+      "year": 2018
+    },
+    {
+      "id": "tt29573345",
+      "type": "series",
+      "name": "Knock Knock, Boys!",
+      "imdb_id": "tt29573345",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt36647444",
+      "type": "series",
+      "name": "Knock Out",
+      "imdb_id": "tt36647444",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt21742420",
+      "type": "series",
+      "name": "Kumusta Bro?",
+      "imdb_id": "tt21742420",
+      "country": "Philippines",
+      "year": 2022
+    },
+    {
+      "id": "tt21025668",
+      "type": "series",
+      "name": "La Cuisine",
+      "imdb_id": "tt21025668",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt13389596",
+      "type": "series",
+      "name": "Lakan",
+      "imdb_id": "tt13389596",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt28102889",
+      "type": "series",
+      "name": "La Pluie",
+      "imdb_id": "tt28102889",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt35693689",
+      "type": "series",
+      "name": "Last Meal Universe",
+      "imdb_id": "tt35693689",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt24186344",
+      "type": "series",
+      "name": "Last Twilight",
+      "imdb_id": "tt24186344",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt43711830",
+      "type": "series",
+      "name": "Laws Of Attraction",
+      "imdb_id": "tt43711830",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt36997328",
+      "type": "series",
+      "name": "Let Me Into Your Heart",
+      "imdb_id": "tt36997328",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt40734806",
+      "type": "series",
+      "name": "Life In Smokey Blue",
+      "imdb_id": "tt40734806",
+      "country": "Japan",
+      "year": 2026
+    },
+    {
+      "id": "tt13519086",
+      "type": "series",
+      "name": "Life~Love On The Line",
+      "imdb_id": "tt13519086",
+      "country": "Japan",
+      "year": 2020
+    },
+    {
+      "id": "tt13043554",
+      "type": "series",
+      "name": "Like In The Movies",
+      "imdb_id": "tt13043554",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt9842820",
+      "type": "series",
+      "name": "Limited Edition",
+      "imdb_id": "tt9842820",
+      "country": "Philippines",
+      "year": 2022
+    },
+    {
+      "id": "tt33309777",
+      "type": "series",
+      "name": "Live In Love",
+      "imdb_id": "tt33309777",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt32129635",
+      "type": "series",
+      "name": "Living With Him",
+      "imdb_id": "tt32129635",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt26899696",
+      "type": "series",
+      "name": "Lonely Connections",
+      "imdb_id": "tt26899696",
+      "country": "Philippines",
+      "year": 2023
+    },
+    {
+      "id": "tt36231255",
+      "type": "series",
+      "name": "Lost In The Woods",
+      "imdb_id": "tt36231255",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt42445481",
+      "type": "series",
+      "name": "Lost To You",
+      "imdb_id": "tt42445481",
+      "country": "China",
+      "year": 2026
+    },
+    {
+      "id": "tt39282892",
+      "type": "series",
+      "name": "Love Alert",
+      "imdb_id": "tt39282892",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt43517068",
+      "type": "series",
+      "name": "Love And Twisted",
+      "imdb_id": "tt43517068",
+      "country": "Cambodia",
+      "year": 2026
+    },
+    {
+      "id": "tt31937607",
+      "type": "series",
+      "name": "Love Area",
+      "imdb_id": "tt31937607",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt16954610",
+      "type": "series",
+      "name": "Love At The End Of The World",
+      "imdb_id": "tt16954610",
+      "country": "Philippines",
+      "year": 2021
+    },
+    {
+      "id": "tt38976190",
+      "type": "series",
+      "name": "Love Begins In The World Of If",
+      "imdb_id": "tt38976190",
+      "country": "Japan",
+      "year": 2025
+    },
+    {
+      "id": "tt23751100",
+      "type": "series",
+      "name": "Love Bill",
+      "imdb_id": "tt23751100",
+      "country": "Vietnam",
+      "year": 2022
+    },
+    {
+      "id": "tt8360326",
+      "type": "series",
+      "name": "Love By Chance",
+      "imdb_id": "tt8360326",
+      "country": "Thailand",
+      "year": 2018
+    },
+    {
+      "id": "tt21349568",
+      "type": "series",
+      "name": "Love In The Air (Thai)",
+      "imdb_id": "tt21349568",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt12439466",
+      "type": "series",
+      "name": "Love In The Air",
+      "imdb_id": "tt12439466",
+      "country": "Japan",
+      "year": 2020
+    },
+    {
+      "id": "tt5575678",
+      "type": "series",
+      "name": "Love In The Moonlight",
+      "imdb_id": "tt5575678",
+      "country": "Thailand",
+      "year": 2016
+    },
+    {
+      "id": "tt28694288",
+      "type": "series",
+      "name": "Love In Translation",
+      "imdb_id": "tt28694288",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt33366206",
+      "type": "series",
+      "name": "Love Is A Poison",
+      "imdb_id": "tt33366206",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt31354960",
+      "type": "series",
+      "name": "Love Is Better The Second Time",
+      "imdb_id": "tt31354960",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt35324031",
+      "type": "series",
+      "name": "Love Like A Bike",
+      "imdb_id": "tt35324031",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt14207678",
+      "type": "series",
+      "name": "Lovely Writer",
+      "imdb_id": "tt14207678",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt14402214",
+      "type": "series",
+      "name": "Love Mechanics",
+      "imdb_id": "tt14402214",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt39390207",
+      "type": "series",
+      "name": "Love Moves",
+      "imdb_id": "tt39390207",
+      "country": "Philippines",
+      "year": 2025
+    },
+    {
+      "id": "tt32586038",
+      "type": "series",
+      "name": "Love Of The Sea",
+      "imdb_id": "tt32586038",
+      "country": "Cambodia",
+      "year": 2024
+    },
+    {
+      "id": "tt38856645",
+      "type": "series",
+      "name": "Love Of Silom",
+      "imdb_id": "tt38856645",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt38283867",
+      "type": "series",
+      "name": "Lover Merman",
+      "imdb_id": "tt38283867",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt33332539",
+      "type": "series",
+      "name": "Love Sick (2024)",
+      "imdb_id": "tt33332539",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt3792116",
+      "type": "series",
+      "name": "Love Stage",
+      "imdb_id": "tt3792116",
+      "country": "Thailand",
+      "year": 2014
+    },
+    {
+      "id": "tt27690979",
+      "type": "series",
+      "name": "Love Syndrome III",
+      "imdb_id": "tt27690979",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt34934110",
+      "type": "series",
+      "name": "Love Upon A Time",
+      "imdb_id": "tt34934110",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt18305626",
+      "type": "series",
+      "name": "Love With Benefits",
+      "imdb_id": "tt18305626",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt34903754",
+      "type": "series",
+      "name": "Love You Teacher",
+      "imdb_id": "tt34903754",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt28776339",
+      "type": "series",
+      "name": "Low Frequency",
+      "imdb_id": "tt28776339",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt36959355",
+      "type": "series",
+      "name": "Loy Kaew First Love",
+      "imdb_id": "tt36959355",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt38355364",
+      "type": "series",
+      "name": "Magic Move",
+      "imdb_id": "tt38355364",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt32409807",
+      "type": "series",
+      "name": "Make A Wish",
+      "imdb_id": "tt32409807",
+      "country": "Philippines",
+      "year": 2025
+    },
+    {
+      "id": "tt43681304",
+      "type": "series",
+      "name": "Make It Right",
+      "imdb_id": "tt43681304",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt35006830",
+      "type": "series",
+      "name": "Mandate",
+      "imdb_id": "tt35006830",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt13829184",
+      "type": "series",
+      "name": "Manner Of Death",
+      "imdb_id": "tt13829184",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt34929687",
+      "type": "series",
+      "name": "Me And Thee",
+      "imdb_id": "tt34929687",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt34935340",
+      "type": "series",
+      "name": "Me And Who",
+      "imdb_id": "tt34935340",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt13834298",
+      "type": "series",
+      "name": "Meet Me Outside",
+      "imdb_id": "tt13834298",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt32907375",
+      "type": "series",
+      "name": "Meet You At The Blossom",
+      "imdb_id": "tt32907375",
+      "country": "China",
+      "year": 2024
+    },
+    {
+      "id": "tt34929711",
+      "type": "series",
+      "name": "Melody Of Secrets",
+      "imdb_id": "tt34929711",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt34929731",
+      "type": "series",
+      "name": "Memoir Of Rati",
+      "imdb_id": "tt34929731",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt32033952",
+      "type": "series",
+      "name": "Memory In The Letter",
+      "imdb_id": "tt32033952",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt20765224",
+      "type": "series",
+      "name": "Meow Ears Up",
+      "imdb_id": "tt20765224",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt30461190",
+      "type": "series",
+      "name": "Middleman’s Love",
+      "imdb_id": "tt30461190",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt21231790",
+      "type": "series",
+      "name": "Minato's Laundromat",
+      "imdb_id": "tt21231790",
+      "country": "Japan",
+      "year": 2022
+    },
+    {
+      "id": "tt28261206",
+      "type": "series",
+      "name": "Missing Piece",
+      "imdb_id": "tt28261206",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt36733569",
+      "type": "series",
+      "name": "Mission To The Moon",
+      "imdb_id": "tt36733569",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt33007219",
+      "type": "series",
+      "name": "Monster Next Door",
+      "imdb_id": "tt33007219",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt16429136",
+      "type": "series",
+      "name": "Moonlight Chicken",
+      "imdb_id": "tt16429136",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt18284376",
+      "type": "series",
+      "name": "Mr Cinderella",
+      "imdb_id": "tt18284376",
+      "country": "Vietnam",
+      "year": 2021
+    },
+    {
+      "id": "tt30253700",
+      "type": "series",
+      "name": "Mr Sahara & Toki-Kun",
+      "imdb_id": "tt30253700",
+      "country": "Japan",
+      "year": 2023
+    },
+    {
+      "id": "tt19870412",
+      "type": "series",
+      "name": "Mr Unlucky Has No Choice",
+      "imdb_id": "tt19870412",
+      "country": "Japan",
+      "year": 2022
+    },
+    {
+      "id": "tt6581070",
+      "type": "series",
+      "name": "Mr X And I",
+      "imdb_id": "tt6581070",
+      "country": "China",
+      "year": 2015
+    },
+    {
+      "id": "tt34929753",
+      "type": "series",
+      "name": "Mu Te Luv",
+      "imdb_id": "tt34929753",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt16259218",
+      "type": "series",
+      "name": "My Beautiful Man",
+      "imdb_id": "tt16259218",
+      "country": "Japan",
+      "year": 2021
+    },
+    {
+      "id": "tt33369549",
+      "type": "series",
+      "name": "My Brother",
+      "imdb_id": "tt33369549",
+      "country": "Vietnam",
+      "year": 2025
+    },
+    {
+      "id": "tt29965244",
+      "type": "series",
+      "name": "My Dear Gangster Oppa",
+      "imdb_id": "tt29965244",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt21109546",
+      "type": "series",
+      "name": "My Dream",
+      "imdb_id": "tt21109546",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt12729214",
+      "type": "series",
+      "name": "My Engineer",
+      "imdb_id": "tt12729214",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt12921260",
+      "type": "series",
+      "name": "My Extraordinary",
+      "imdb_id": "tt12921260",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt31970166",
+      "type": "series",
+      "name": "My Freaky Love Story",
+      "imdb_id": "tt31970166",
+      "country": "Philippines",
+      "year": 2022
+    },
+    {
+      "id": "tt13180414",
+      "type": "series",
+      "name": "My Gear And Your Gown",
+      "imdb_id": "tt13180414",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt32535217",
+      "type": "series",
+      "name": "My Lascivious Boss",
+      "imdb_id": "tt32535217",
+      "country": "Vietnam",
+      "year": 2021
+    },
+    {
+      "id": "tt38593145",
+      "type": "series",
+      "name": "My Little Ghost",
+      "imdb_id": "tt38593145",
+      "country": "Vietnam",
+      "year": 2025
+    },
+    {
+      "id": "tt32742508",
+      "type": "series",
+      "name": "My Little Sister",
+      "imdb_id": "tt32742508",
+      "country": "Vietnam",
+      "year": 2025
+    },
+    {
+      "id": "tt15666846",
+      "type": "series",
+      "name": "My Love Mix-Up!",
+      "imdb_id": "tt15666846",
+      "country": "Japan",
+      "year": 2021
+    },
+    {
+      "id": "tt34930049",
+      "type": "series",
+      "name": "My Magic Prophecy",
+      "imdb_id": "tt34930049",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt37645680",
+      "type": "series",
+      "name": "My Mate Match",
+      "imdb_id": "tt37645680",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt23558096",
+      "type": "series",
+      "name": "My Only 12%",
+      "imdb_id": "tt23558096",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt28775754",
+      "type": "series",
+      "name": "My Personal Weatherman",
+      "imdb_id": "tt28775754",
+      "country": "Japan",
+      "year": 2023
+    },
+    {
+      "id": "tt29465408",
+      "type": "series",
+      "name": "My Plantito",
+      "imdb_id": "tt29465408",
+      "country": "Philippines",
+      "year": 2023
+    },
+    {
+      "id": "tt20158964",
+      "type": "series",
+      "name": "My Ride",
+      "imdb_id": "tt20158964",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt34930070",
+      "type": "series",
+      "name": "My Romance Scammer",
+      "imdb_id": "tt34930070",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt13777028",
+      "type": "series",
+      "name": "My Roommate",
+      "imdb_id": "tt13777028",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt16359870",
+      "type": "series",
+      "name": "My School President",
+      "imdb_id": "tt16359870",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt21001730",
+      "type": "series",
+      "name": "My Secret Love",
+      "imdb_id": "tt21001730",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt37179011",
+      "type": "series",
+      "name": "My Secret Of Seer",
+      "imdb_id": "tt37179011",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt29901768",
+      "type": "series",
+      "name": "My Stand-In",
+      "imdb_id": "tt29901768",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt38752961",
+      "type": "series",
+      "name": "Mystique In The Mirror",
+      "imdb_id": "tt38752961",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt31325740",
+      "type": "series",
+      "name": "My Strawberry Film",
+      "imdb_id": "tt31325740",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt36601953",
+      "type": "series",
+      "name": "My Stubborn",
+      "imdb_id": "tt36601953",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt34934808",
+      "type": "series",
+      "name": "My Sweetheart Jom",
+      "imdb_id": "tt34934808",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt11193036",
+      "type": "series",
+      "name": "My Tee - 'Cause You're My Boy",
+      "imdb_id": "tt11193036",
+      "country": "Thailand",
+      "year": 2018
+    },
+    {
+      "id": "tt22072834",
+      "type": "series",
+      "name": "My Tooth Your Love",
+      "imdb_id": "tt22072834",
+      "country": "Taiwan",
+      "year": 2022
+    },
+    {
+      "id": "tt21914766",
+      "type": "series",
+      "name": "My Toxic Lover",
+      "imdb_id": "tt21914766",
+      "country": "Philippines"
+    },
+    {
+      "id": "tt31099895",
+      "type": "series",
+      "name": "My Universe",
+      "imdb_id": "tt31099895",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt27237297",
+      "type": "series",
+      "name": "Naked Dining",
+      "imdb_id": "tt27237297",
+      "country": "Japan",
+      "year": 2023
+    },
+    {
+      "id": "tt14295740",
+      "type": "series",
+      "name": "Nation's Brother",
+      "imdb_id": "tt14295740",
+      "country": "Vietnam",
+      "year": 2020
+    },
+    {
+      "id": "tt29549910",
+      "type": "series",
+      "name": "Naughty Babe",
+      "imdb_id": "tt29549910",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt38776222",
+      "type": "series",
+      "name": "Never Date A Capricorn",
+      "imdb_id": "tt38776222",
+      "country": "China",
+      "year": 2025
+    },
+    {
+      "id": "tt16368786",
+      "type": "series",
+      "name": "Never Let Me Go",
+      "imdb_id": "tt16368786",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt30817443",
+      "type": "series",
+      "name": "Night Dream",
+      "imdb_id": "tt30817443",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt32643137",
+      "type": "series",
+      "name": "NightTime",
+      "imdb_id": "tt32643137",
+      "country": "Thailand",
+      "year": 2018
+    },
+    {
+      "id": "tt14296038",
+      "type": "series",
+      "name": "NitiMan",
+      "imdb_id": "tt14296038",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt13661118",
+      "type": "series",
+      "name": "Not Me",
+      "imdb_id": "tt13661118",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt13369912",
+      "type": "series",
+      "name": "Oh, Mando!",
+      "imdb_id": "tt13369912",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt27842369",
+      "type": "series",
+      "name": "Oh My God",
+      "imdb_id": "tt27842369",
+      "country": "Vietnam",
+      "year": 2023
+    },
+    {
+      "id": "tt22353480",
+      "type": "series",
+      "name": "Oh! My Sunshine Night",
+      "imdb_id": "tt22353480",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt21054980",
+      "type": "series",
+      "name": "Old Fashion Cupcake",
+      "imdb_id": "tt21054980",
+      "country": "Japan",
+      "year": 2022
+    },
+    {
+      "id": "tt32466683",
+      "type": "series",
+      "name": "OMG! Vampire",
+      "imdb_id": "tt32466683",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt21199534",
+      "type": "series",
+      "name": "Once In Memory",
+      "imdb_id": "tt21199534",
+      "country": "Thailand",
+      "year": 2014
+    },
+    {
+      "id": "tt21741462",
+      "type": "series",
+      "name": "On Cloud Nine",
+      "imdb_id": "tt21741462",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt3743326",
+      "type": "series",
+      "name": "One Love (Laos)",
+      "imdb_id": "tt3743326",
+      "country": "Laos",
+      "year": 2014
+    },
+    {
+      "id": "tt38987259",
+      "type": "series",
+      "name": "One Love",
+      "imdb_id": "tt38987259",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt29565279",
+      "type": "series",
+      "name": "One Room Angel",
+      "imdb_id": "tt29565279",
+      "country": "Japan",
+      "year": 2023
+    },
+    {
+      "id": "tt0205687",
+      "type": "series",
+      "name": "One Year",
+      "imdb_id": "tt0205687",
+      "country": "Thailand",
+      "year": 1999
+    },
+    {
+      "id": "tt30016250",
+      "type": "series",
+      "name": "Only Boo!",
+      "imdb_id": "tt30016250",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt24635666",
+      "type": "series",
+      "name": "Only Friends",
+      "imdb_id": "tt24635666",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt34929679",
+      "type": "series",
+      "name": "Only Friends: Dream On",
+      "imdb_id": "tt34929679",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt30016342",
+      "type": "series",
+      "name": "Ossan's Love",
+      "imdb_id": "tt30016342",
+      "country": "Other Asia",
+      "year": 2025
+    },
+    {
+      "id": "tt27349860",
+      "type": "series",
+      "name": "Our Dining Table",
+      "imdb_id": "tt27349860",
+      "country": "Japan",
+      "year": 2023
+    },
+    {
+      "id": "tt38644425",
+      "type": "series",
+      "name": "Our Golden Times",
+      "imdb_id": "tt38644425",
+      "country": "Other Asia",
+      "year": 2024
+    },
+    {
+      "id": "tt9578852",
+      "type": "series",
+      "name": "Our Skyy",
+      "imdb_id": "tt9578852",
+      "country": "Thailand",
+      "year": 2018
+    },
+    {
+      "id": "tt34412058",
+      "type": "series",
+      "name": "Our Youth",
+      "imdb_id": "tt34412058",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt18225840",
+      "type": "series",
+      "name": "Paint With Love",
+      "imdb_id": "tt18225840",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt15438100",
+      "type": "series",
+      "name": "Papa & Daddy",
+      "imdb_id": "tt15438100",
+      "country": "Taiwan",
+      "year": 2021
+    },
+    {
+      "id": "tt29495193",
+      "type": "series",
+      "name": "Papa, What is Love?",
+      "imdb_id": "tt29495193",
+      "country": "Philippines",
+      "year": 2023
+    },
+    {
+      "id": "tt27846702",
+      "type": "series",
+      "name": "Past Senger",
+      "imdb_id": "tt27846702",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt39380468",
+      "type": "series",
+      "name": "Payback",
+      "imdb_id": "tt39380468",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt39309899",
+      "type": "series",
+      "name": "Peach Lover",
+      "imdb_id": "tt39309899",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt31263050",
+      "type": "series",
+      "name": "Perfect Propose",
+      "imdb_id": "tt31263050",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt20158992",
+      "type": "series",
+      "name": "Physical Therapy",
+      "imdb_id": "tt20158992",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt28209430",
+      "type": "series",
+      "name": "Pit Babe",
+      "imdb_id": "tt28209430",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt30052225",
+      "type": "series",
+      "name": "Playboyy",
+      "imdb_id": "tt30052225",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt19434166",
+      "type": "series",
+      "name": "Plus & Minus",
+      "imdb_id": "tt19434166",
+      "country": "Taiwan",
+      "year": 2022
+    },
+    {
+      "id": "tt39175131",
+      "type": "series",
+      "name": "PlutoCharon",
+      "imdb_id": "tt39175131",
+      "country": "China",
+      "year": 2025
+    },
+    {
+      "id": "tt22353404",
+      "type": "series",
+      "name": "Precise Shot",
+      "imdb_id": "tt22353404",
+      "country": "China",
+      "year": 2020
+    },
+    {
+      "id": "tt10487986",
+      "type": "series",
+      "name": "Puppy Honey",
+      "imdb_id": "tt10487986",
+      "country": "Thailand",
+      "year": 2016
+    },
+    {
+      "id": "tt13030280",
+      "type": "series",
+      "name": "Quaranthings",
+      "imdb_id": "tt13030280",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt21353644",
+      "type": "series",
+      "name": "Rainbow Lagoon",
+      "imdb_id": "tt21353644",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt13706140",
+      "type": "series",
+      "name": "Rainbow Prince",
+      "imdb_id": "tt13706140",
+      "country": "Philippines",
+      "year": 2022
+    },
+    {
+      "id": "tt34728161",
+      "type": "series",
+      "name": "Rearrange",
+      "imdb_id": "tt34728161",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt25830366",
+      "type": "series",
+      "name": "Red Balloon",
+      "imdb_id": "tt25830366",
+      "country": "Taiwan",
+      "year": 2022
+    },
+    {
+      "id": "tt37658649",
+      "type": "series",
+      "name": "Reloved",
+      "imdb_id": "tt37658649",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt3484180",
+      "type": "series",
+      "name": "Remember Me",
+      "imdb_id": "tt3484180",
+      "country": "Thailand",
+      "year": 2014
+    },
+    {
+      "id": "tt10286802",
+      "type": "series",
+      "name": "ReminderS",
+      "imdb_id": "tt10286802",
+      "country": "Thailand",
+      "year": 2019
+    },
+    {
+      "id": "tt35324277",
+      "type": "series",
+      "name": "Reset",
+      "imdb_id": "tt35324277",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt32215776",
+      "type": "series",
+      "name": "Revamp The Undead Story",
+      "imdb_id": "tt32215776",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt37370861",
+      "type": "series",
+      "name": "Revenged Love",
+      "imdb_id": "tt37370861",
+      "country": "China",
+      "year": 2025
+    },
+    {
+      "id": "tt40586090",
+      "type": "series",
+      "name": "Sammy's Children's Day",
+      "imdb_id": "tt40586090",
+      "country": "China",
+      "year": 2026
+    },
+    {
+      "id": "tt34956643",
+      "type": "series",
+      "name": "Sangmin Dinneaw",
+      "imdb_id": "tt34956643",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt35872543",
+      "type": "series",
+      "name": "Sashes And Hearts",
+      "imdb_id": "tt35872543",
+      "country": "Philippines",
+      "year": 2025
+    },
+    {
+      "id": "tt41050511",
+      "type": "series",
+      "name": "Scent Of Love",
+      "imdb_id": "tt41050511",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt38718507",
+      "type": "series",
+      "name": "School Trip: Joined A Group...",
+      "imdb_id": "tt38718507",
+      "country": "Japan",
+      "year": 2025
+    },
+    {
+      "id": "tt14203886",
+      "type": "series",
+      "name": "Sea Him",
+      "imdb_id": "tt14203886",
+      "country": "Vietnam",
+      "year": 2020
+    },
+    {
+      "id": "tt4378456",
+      "type": "series",
+      "name": "Second Chance",
+      "imdb_id": "tt4378456",
+      "country": "Thailand",
+      "year": 2016
+    },
+    {
+      "id": "tt37610686",
+      "type": "series",
+      "name": "Secret Lover",
+      "imdb_id": "tt37610686",
+      "country": "Taiwan",
+      "year": 2025
+    },
+    {
+      "id": "tt36519802",
+      "type": "series",
+      "name": "Secrets On The Litchi Island",
+      "imdb_id": "tt36519802",
+      "country": "China",
+      "year": 2025
+    },
+    {
+      "id": "tt15429640",
+      "type": "series",
+      "name": "See You After Quarantine",
+      "imdb_id": "tt15429640",
+      "country": "Taiwan",
+      "year": 2021
+    },
+    {
+      "id": "tt33540940",
+      "type": "series",
+      "name": "See Your Love",
+      "imdb_id": "tt33540940",
+      "country": "Taiwan",
+      "year": 2024
+    },
+    {
+      "id": "tt28022046",
+      "type": "series",
+      "name": "Senior And Junior",
+      "imdb_id": "tt28022046",
+      "country": "Cambodia",
+      "year": 2023
+    },
+    {
+      "id": "tt22168306",
+      "type": "series",
+      "name": "Senpai, This Can't Be Love!",
+      "imdb_id": "tt22168306",
+      "country": "Japan",
+      "year": 2022
+    },
+    {
+      "id": "tt39745716",
+      "type": "series",
+      "name": "Sereno",
+      "imdb_id": "tt39745716",
+      "country": "Philippines",
+      "year": 2025
+    },
+    {
+      "id": "tt31116964",
+      "type": "series",
+      "name": "Shine",
+      "imdb_id": "tt31116964",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt25157450",
+      "type": "series",
+      "name": "Si Andy, Si Lauren, O Si Peng?",
+      "imdb_id": "tt25157450",
+      "country": "Philippines",
+      "year": 2022
+    },
+    {
+      "id": "tt26902729",
+      "type": "series",
+      "name": "Siew Sum Noi",
+      "imdb_id": "tt26902729",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt33004796",
+      "type": "series",
+      "name": "Sky Valley",
+      "imdb_id": "tt33004796",
+      "country": "Philippines",
+      "year": 2024
+    },
+    {
+      "id": "tt11115836",
+      "type": "series",
+      "name": "Slam Dance",
+      "imdb_id": "tt11115836",
+      "country": "Thailand",
+      "year": 2017
+    },
+    {
+      "id": "tt40388381",
+      "type": "series",
+      "name": "Smile After Tears",
+      "imdb_id": "tt40388381",
+      "country": "Taiwan",
+      "year": 2026
+    },
+    {
+      "id": "tt20213316",
+      "type": "series",
+      "name": "Something In My Room",
+      "imdb_id": "tt20213316",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt31183823",
+      "type": "series",
+      "name": "Spare Me Your Mercy",
+      "imdb_id": "tt31183823",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt12879674",
+      "type": "series",
+      "name": "Stage Of Love",
+      "imdb_id": "tt12879674",
+      "country": "Vietnam",
+      "year": 2020
+    },
+    {
+      "id": "tt36412843",
+      "type": "series",
+      "name": "Stand By Me",
+      "imdb_id": "tt36412843",
+      "country": "Vietnam",
+      "year": 2024
+    },
+    {
+      "id": "tt16377018",
+      "type": "series",
+      "name": "Star In My Mind/Sky In Your Heart",
+      "imdb_id": "tt16377018",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt37517554",
+      "type": "series",
+      "name": "Stay By My Side",
+      "imdb_id": "tt37517554",
+      "country": "Taiwan",
+      "year": 2025
+    },
+    {
+      "id": "tt28798842",
+      "type": "series",
+      "name": "Stay Still",
+      "imdb_id": "tt28798842",
+      "country": "Other Asia",
+      "year": 2023
+    },
+    {
+      "id": "tt28497065",
+      "type": "series",
+      "name": "Stay With Me",
+      "imdb_id": "tt28497065",
+      "country": "China",
+      "year": 2023
+    },
+    {
+      "id": "tt0101205",
+      "type": "series",
+      "name": "Step By Step",
+      "imdb_id": "tt0101205",
+      "country": "Thailand",
+      "year": 1991
+    },
+    {
+      "id": "tt36885597",
+      "type": "series",
+      "name": "Stranger's Love",
+      "imdb_id": "tt36885597",
+      "country": "Philippines",
+      "year": 2025
+    },
+    {
+      "id": "tt28500315",
+      "type": "series",
+      "name": "Stuck On You",
+      "imdb_id": "tt28500315",
+      "country": "Philippines",
+      "year": 2021
+    },
+    {
+      "id": "tt24514470",
+      "type": "series",
+      "name": "Stupid Boys Stupid Love",
+      "imdb_id": "tt24514470",
+      "country": "Vietnam",
+      "year": 2021
+    },
+    {
+      "id": "tt28309719",
+      "type": "series",
+      "name": "Stupid Genius",
+      "imdb_id": "tt28309719",
+      "country": "Vietnam",
+      "year": 2023
+    },
+    {
+      "id": "tt33062842",
+      "type": "series",
+      "name": "Sugar Dog Life",
+      "imdb_id": "tt33062842",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt32641589",
+      "type": "series",
+      "name": "Sunset X Vibes",
+      "imdb_id": "tt32641589",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt36519910",
+      "type": "series",
+      "name": "Suntiny",
+      "imdb_id": "tt36519910",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt32209764",
+      "type": "series",
+      "name": "Sweet Tooth, Good Dentist",
+      "imdb_id": "tt32209764",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt22181656",
+      "type": "series",
+      "name": "Takara-kun & Amagi-kun",
+      "imdb_id": "tt22181656",
+      "country": "Japan",
+      "year": 2022
+    },
+    {
+      "id": "tt32813751",
+      "type": "series",
+      "name": "Takara's Treasure",
+      "imdb_id": "tt32813751",
+      "country": "Japan",
+      "year": 2024
+    },
+    {
+      "id": "tt38493316",
+      "type": "series",
+      "name": "Takumi-Kun",
+      "imdb_id": "tt38493316",
+      "country": "Japan",
+      "year": 2025
+    },
+    {
+      "id": "tt33484367",
+      "type": "series",
+      "name": "Teenager Judge",
+      "imdb_id": "tt33484367",
+      "country": "Vietnam",
+      "year": 2024
+    },
+    {
+      "id": "tt35933281",
+      "type": "series",
+      "name": "Thank God It's Friday",
+      "imdb_id": "tt35933281",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt11546860",
+      "type": "series",
+      "name": "TharnType",
+      "imdb_id": "tt11546860",
+      "country": "Thailand",
+      "year": 2019
+    },
+    {
+      "id": "tt20765192",
+      "type": "series",
+      "name": "That's My Candy",
+      "imdb_id": "tt20765192",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt34930091",
+      "type": "series",
+      "name": "That Summer",
+      "imdb_id": "tt34930091",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt21092194",
+      "type": "series",
+      "name": "The 8.2 Second Rule",
+      "imdb_id": "tt21092194",
+      "country": "Japan",
+      "year": 2022
+    },
+    {
+      "id": "tt36236988",
+      "type": "series",
+      "name": "The Bangkok Boy",
+      "imdb_id": "tt36236988",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt21098268",
+      "type": "series",
+      "name": "The Best Story",
+      "imdb_id": "tt21098268",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt41764389",
+      "type": "series",
+      "name": "The Boy And I Who Will Break Up In 100 Days",
+      "imdb_id": "tt41764389",
+      "country": "Japan",
+      "year": 2026
+    },
+    {
+      "id": "tt42435354",
+      "type": "series",
+      "name": "The Boyfriend Express",
+      "imdb_id": "tt42435354",
+      "country": "Philippines",
+      "year": 2026
+    },
+    {
+      "id": "tt34933916",
+      "type": "series",
+      "name": "The Boy Next World",
+      "imdb_id": "tt34933916",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt39522257",
+      "type": "series",
+      "name": "The Boy Next World My Destiny",
+      "imdb_id": "tt39522257",
+      "country": "Japan",
+      "year": 2026
+    },
+    {
+      "id": "tt39306383",
+      "type": "series",
+      "name": "The Cupid Coach",
+      "imdb_id": "tt39306383",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt38066464",
+      "type": "series",
+      "name": "The Cursed Love",
+      "imdb_id": "tt38066464",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt27613689",
+      "type": "series",
+      "name": "The Day I Loved You",
+      "imdb_id": "tt27613689",
+      "country": "Philippines",
+      "year": 2023
+    },
+    {
+      "id": "tt33246338",
+      "type": "series",
+      "name": "The Eclipse",
+      "imdb_id": "tt33246338",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt26541864",
+      "type": "series",
+      "name": "The End Of The World With You",
+      "imdb_id": "tt26541864",
+      "country": "Japan",
+      "year": 2023
+    },
+    {
+      "id": "tt32218303",
+      "type": "series",
+      "name": "The Ex-Morning",
+      "imdb_id": "tt32218303",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt32215345",
+      "type": "series",
+      "name": "The Heart Killers",
+      "imdb_id": "tt32215345",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt33111239",
+      "type": "series",
+      "name": "The Hidden Moon",
+      "imdb_id": "tt33111239",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt38493347",
+      "type": "series",
+      "name": "The Journey To Killing You",
+      "imdb_id": "tt38493347",
+      "country": "Japan",
+      "year": 2025
+    },
+    {
+      "id": "tt38124914",
+      "type": "series",
+      "name": "The Love Never Sets",
+      "imdb_id": "tt38124914",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt31450830",
+      "type": "series",
+      "name": "The Love Of Winter",
+      "imdb_id": "tt31450830",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt28354787",
+      "type": "series",
+      "name": "The Luminous Solution",
+      "imdb_id": "tt28354787",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt19729114",
+      "type": "series",
+      "name": "The Miracle Of Teddy Bear",
+      "imdb_id": "tt19729114",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt14295822",
+      "type": "series",
+      "name": "The Most Peaceful Place",
+      "imdb_id": "tt14295822",
+      "country": "Vietnam",
+      "year": 2021
+    },
+    {
+      "id": "tt32909196",
+      "type": "series",
+      "name": "The Next Prince",
+      "imdb_id": "tt32909196",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt33098983",
+      "type": "series",
+      "name": "The On1y One",
+      "imdb_id": "tt33098983",
+      "country": "Taiwan",
+      "year": 2024
+    },
+    {
+      "id": "tt10562574",
+      "type": "series",
+      "name": "Theory Of Love",
+      "imdb_id": "tt10562574",
+      "country": "Thailand",
+      "year": 2019
+    },
+    {
+      "id": "tt4474310",
+      "type": "series",
+      "name": "The Player",
+      "imdb_id": "tt4474310",
+      "country": "Thailand",
+      "year": 2015
+    },
+    {
+      "id": "tt22325164",
+      "type": "series",
+      "name": "The Promise",
+      "imdb_id": "tt22325164",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt37560968",
+      "type": "series",
+      "name": "The Proper Way To Write Love",
+      "imdb_id": "tt37560968",
+      "country": "Japan",
+      "year": 2025
+    },
+    {
+      "id": "tt38788083",
+      "type": "series",
+      "name": "Therapy Game",
+      "imdb_id": "tt38788083",
+      "country": "Japan",
+      "year": 2025
+    },
+    {
+      "id": "tt32787481",
+      "type": "series",
+      "name": "The Rebound",
+      "imdb_id": "tt32787481",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt12650216",
+      "type": "series",
+      "name": "The Shipper",
+      "imdb_id": "tt12650216",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt0103404",
+      "type": "series",
+      "name": "The Shore",
+      "imdb_id": "tt0103404",
+      "country": "Philippines",
+      "year": 1992
+    },
+    {
+      "id": "tt31079705",
+      "type": "series",
+      "name": "The Sign",
+      "imdb_id": "tt31079705",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt37539940",
+      "type": "series",
+      "name": "The Sparkle In Your Eye",
+      "imdb_id": "tt37539940",
+      "country": "China",
+      "year": 2025
+    },
+    {
+      "id": "tt24083922",
+      "type": "series",
+      "name": "The Star Always Follow You",
+      "imdb_id": "tt24083922",
+      "country": "Vietnam",
+      "year": 2022
+    },
+    {
+      "id": "tt1305826",
+      "type": "series",
+      "name": "The Time Adventure Of To An",
+      "imdb_id": "tt1305826",
+      "country": "Vietnam",
+      "year": 2010
+    },
+    {
+      "id": "tt29553450",
+      "type": "series",
+      "name": "The Trainee",
+      "imdb_id": "tt29553450",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt19872034",
+      "type": "series",
+      "name": "The Tuxedo",
+      "imdb_id": "tt19872034",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt38779159",
+      "type": "series",
+      "name": "The Two Of Them",
+      "imdb_id": "tt38779159",
+      "country": "Myanmar",
+      "year": 2025
+    },
+    {
+      "id": "tt16393062",
+      "type": "series",
+      "name": "The Warp Effect",
+      "imdb_id": "tt16393062",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt34088510",
+      "type": "series",
+      "name": "The Wicked Game",
+      "imdb_id": "tt34088510",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt20858520",
+      "type": "series",
+      "name": "The Yearbook",
+      "imdb_id": "tt20858520",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt32215550",
+      "type": "series",
+      "name": "This Love Doesn't Have Long Beans",
+      "imdb_id": "tt32215550",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt34930106",
+      "type": "series",
+      "name": "Ticket To Heaven",
+      "imdb_id": "tt34930106",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt14900026",
+      "type": "series",
+      "name": "Tie The Not",
+      "imdb_id": "tt14900026",
+      "country": "Philippines",
+      "year": 2021
+    },
+    {
+      "id": "tt0060035",
+      "type": "series",
+      "name": "Till Death Do Us Part",
+      "imdb_id": "tt0060035",
+      "country": "Philippines",
+      "year": 1965
+    },
+    {
+      "id": "tt15569588",
+      "type": "series",
+      "name": "Till The World Ends",
+      "imdb_id": "tt15569588",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt13138834",
+      "type": "series",
+      "name": "Time",
+      "imdb_id": "tt13138834",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt27650223",
+      "type": "series",
+      "name": "Tin Tem Jai",
+      "imdb_id": "tt27650223",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt5212930",
+      "type": "series",
+      "name": "To Be Continued",
+      "imdb_id": "tt5212930",
+      "country": "Thailand",
+      "year": 2015
+    },
+    {
+      "id": "tt8342874",
+      "type": "series",
+      "name": "Together With Me",
+      "imdb_id": "tt8342874",
+      "country": "Thailand",
+      "year": 2017
+    },
+    {
+      "id": "tt28212824",
+      "type": "series",
+      "name": "Tokyo In April Is...",
+      "imdb_id": "tt28212824",
+      "country": "Japan",
+      "year": 2023
+    },
+    {
+      "id": "tt38938066",
+      "type": "series",
+      "name": "To My Shore",
+      "imdb_id": "tt38938066",
+      "country": "China",
+      "year": 2025
+    },
+    {
+      "id": "tt13404894",
+      "type": "series",
+      "name": "Tonhon Chonlatee",
+      "imdb_id": "tt13404894",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt34935264",
+      "type": "series",
+      "name": "Top Form",
+      "imdb_id": "tt34935264",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt30843226",
+      "type": "series",
+      "name": "Top Secret Together",
+      "imdb_id": "tt30843226",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt18990100",
+      "type": "series",
+      "name": "To Sir With Love",
+      "imdb_id": "tt18990100",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt21353626",
+      "type": "series",
+      "name": "Triage",
+      "imdb_id": "tt21353626",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt0460688",
+      "type": "series",
+      "name": "Twins",
+      "imdb_id": "tt0460688",
+      "country": "Thailand",
+      "year": 2005
+    },
+    {
+      "id": "tt31891466",
+      "type": "series",
+      "name": "Two Worlds",
+      "imdb_id": "tt31891466",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt27755929",
+      "type": "series",
+      "name": "Under The Moonlight",
+      "imdb_id": "tt27755929",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt32408450",
+      "type": "series",
+      "name": "Under The Oak Tree",
+      "imdb_id": "tt32408450",
+      "country": "Vietnam",
+      "year": 2024
+    },
+    {
+      "id": "tt36272586",
+      "type": "series",
+      "name": "Unexpectedly Naughty Fukami",
+      "imdb_id": "tt36272586",
+      "country": "Japan",
+      "year": 2025
+    },
+    {
+      "id": "tt43587624",
+      "type": "series",
+      "name": "Unfold",
+      "imdb_id": "tt43587624",
+      "country": "China",
+      "year": 2026
+    },
+    {
+      "id": "tt21096658",
+      "type": "series",
+      "name": "Unforgotten Night",
+      "imdb_id": "tt21096658",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt39373657",
+      "type": "series",
+      "name": "Until We Drown",
+      "imdb_id": "tt39373657",
+      "country": "China",
+      "year": 2025
+    },
+    {
+      "id": "tt11815104",
+      "type": "series",
+      "name": "Until We Meet Again",
+      "imdb_id": "tt11815104",
+      "country": "Thailand",
+      "year": 2019
+    },
+    {
+      "id": "tt29063571",
+      "type": "series",
+      "name": "Venus In The Sky",
+      "imdb_id": "tt29063571",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt27621058",
+      "type": "series",
+      "name": "ViAn",
+      "imdb_id": "tt27621058",
+      "country": "Vietnam",
+      "year": 2023
+    },
+    {
+      "id": "tt16369008",
+      "type": "series",
+      "name": "Vice Versa",
+      "imdb_id": "tt16369008",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt27503307",
+      "type": "series",
+      "name": "VIP Only",
+      "imdb_id": "tt27503307",
+      "country": "Taiwan",
+      "year": 2023
+    },
+    {
+      "id": "tt30015732",
+      "type": "series",
+      "name": "Wandee Goodday",
+      "imdb_id": "tt30015732",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt21052946",
+      "type": "series",
+      "name": "Want To See You",
+      "imdb_id": "tt21052946",
+      "country": "Vietnam",
+      "year": 2022
+    },
+    {
+      "id": "tt24244356",
+      "type": "series",
+      "name": "War Of Y",
+      "imdb_id": "tt24244356",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt6834070",
+      "type": "series",
+      "name": "Water Boyy",
+      "imdb_id": "tt6834070",
+      "country": "Thailand",
+      "year": 2017
+    },
+    {
+      "id": "tt33043174",
+      "type": "series",
+      "name": "We Are Brothers",
+      "imdb_id": "tt33043174",
+      "country": "Myanmar",
+      "year": 2017
+    },
+    {
+      "id": "tt13857476",
+      "type": "series",
+      "name": "We Best Love",
+      "imdb_id": "tt13857476",
+      "country": "Taiwan",
+      "year": 2021
+    },
+    {
+      "id": "tt28426949",
+      "type": "series",
+      "name": "Wedding Plan",
+      "imdb_id": "tt28426949",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt15314050",
+      "type": "series",
+      "name": "Weekend To Remember",
+      "imdb_id": "tt15314050",
+      "country": "Philippines",
+      "year": 2021
+    },
+    {
+      "id": "tt10168312",
+      "type": "series",
+      "name": "What If",
+      "imdb_id": "tt10168312",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt9174030",
+      "type": "series",
+      "name": "What The Duck",
+      "imdb_id": "tt9174030",
+      "country": "Thailand",
+      "year": 2016
+    },
+    {
+      "id": "tt20723196",
+      "type": "series",
+      "name": "What Zabb Man",
+      "imdb_id": "tt20723196",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt35335557",
+      "type": "series",
+      "name": "When It Rains, It Pours",
+      "imdb_id": "tt35335557",
+      "country": "Japan",
+      "year": 2025
+    },
+    {
+      "id": "tt39029529",
+      "type": "series",
+      "name": "When Oranges Fall",
+      "imdb_id": "tt39029529",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt18160718",
+      "type": "series",
+      "name": "Why Love, Why?",
+      "imdb_id": "tt18160718",
+      "country": "Philippines",
+      "year": 2022
+    },
+    {
+      "id": "tt12204002",
+      "type": "series",
+      "name": "Why R U?",
+      "imdb_id": "tt12204002",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt15392844",
+      "type": "series",
+      "name": "Why You...Y Me?",
+      "imdb_id": "tt15392844",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt13671950",
+      "type": "series",
+      "name": "Win Jaime's Heart",
+      "imdb_id": "tt13671950",
+      "country": "Philippines",
+      "year": 2020
+    },
+    {
+      "id": "tt43088175",
+      "type": "series",
+      "name": "Winter Is Not The Death...",
+      "imdb_id": "tt43088175",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt40389354",
+      "type": "series",
+      "name": "Wishing Upon The Shooting Stars",
+      "imdb_id": "tt40389354",
+      "country": "Taiwan",
+      "year": 2026
+    },
+    {
+      "id": "tt14734228",
+      "type": "series",
+      "name": "With Love",
+      "imdb_id": "tt14734228",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt22439602",
+      "type": "series",
+      "name": "Work From Heart",
+      "imdb_id": "tt22439602",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt14764474",
+      "type": "series",
+      "name": "Y Destiny",
+      "imdb_id": "tt14764474",
+      "country": "Thailand",
+      "year": 2021
+    },
+    {
+      "id": "tt38856481",
+      "type": "series",
+      "name": "Yesterday",
+      "imdb_id": "tt38856481",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt29601127",
+      "type": "series",
+      "name": "Y Journey (Stay Like A Local)",
+      "imdb_id": "tt29601127",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt20124572",
+      "type": "series",
+      "name": "You Are Ma Boy",
+      "imdb_id": "tt20124572",
+      "country": "Vietnam",
+      "year": 2021
+    },
+    {
+      "id": "tt0282289",
+      "type": "series",
+      "name": "You Are Mine",
+      "imdb_id": "tt0282289",
+      "country": "Taiwan",
+      "year": 2001
+    },
+    {
+      "id": "tt11165918",
+      "type": "series",
+      "name": "You Are My Sunshine (Season 2)",
+      "imdb_id": "tt11165918",
+      "country": "Vietnam",
+      "year": 2021
+    },
+    {
+      "id": "tt12005828",
+      "type": "series",
+      "name": "You Don't Know",
+      "imdb_id": "tt12005828",
+      "country": "Myanmar",
+      "year": 2021
+    },
+    {
+      "id": "tt42024186",
+      "type": "series",
+      "name": "Your Dear Daddy",
+      "imdb_id": "tt42024186",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt20158982",
+      "type": "series",
+      "name": "You're My Sky",
+      "imdb_id": "tt20158982",
+      "country": "Thailand",
+      "year": 2022
+    },
+    {
+      "id": "tt8905152",
+      "type": "series",
+      "name": "Your Home",
+      "imdb_id": "tt8905152",
+      "country": "Philippines",
+      "year": 2019
+    },
+    {
+      "id": "tt34194430",
+      "type": "series",
+      "name": "Your Sky",
+      "imdb_id": "tt34194430",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt12729142",
+      "type": "series",
+      "name": "YYY",
+      "imdb_id": "tt12729142",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt13120790",
+      "type": "series",
+      "name": "I'm Tee Me Too",
+      "imdb_id": "tt13120790",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt17724102",
+      "type": "series",
+      "name": "Kei x Yaku - Dangerous Buddy",
+      "imdb_id": "tt17724102",
+      "country": "Japan",
+      "year": 2022
+    },
+    {
+      "id": "tt14784852",
+      "type": "series",
+      "name": "Killer And Healer",
+      "imdb_id": "tt14784852",
+      "country": "China",
+      "year": 2021
+    },
+    {
+      "id": "tt10554898",
+      "type": "series",
+      "name": "The Untamed",
+      "imdb_id": "tt10554898",
+      "country": "China",
+      "year": 2019
+    },
+    {
+      "id": "tt12458172",
+      "type": "series",
+      "name": "Word Of Honor",
+      "imdb_id": "tt12458172",
+      "country": "China",
+      "year": 2021
+    },
+    {
+      "id": "tt14317048",
+      "type": "series",
+      "name": "You Never Eat Alone",
+      "imdb_id": "tt14317048",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt5975822",
+      "type": "series",
+      "name": "Addicted",
+      "imdb_id": "tt5975822",
+      "country": "China",
+      "year": 2016
+    },
+    {
+      "id": "tt28100864",
+      "type": "series",
+      "name": "Destined / Fated",
+      "imdb_id": "tt28100864",
+      "country": "Philippines",
+      "year": 2023
+    },
+    {
+      "id": "tt32350812",
+      "type": "series",
+      "name": "Endearment",
+      "imdb_id": "tt32350812",
+      "country": "Myanmar",
+      "year": 2004
+    },
+    {
+      "id": "tt37612413",
+      "type": "series",
+      "name": "Flavor Of Us",
+      "imdb_id": "tt37612413",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt35042502",
+      "type": "series",
+      "name": "Handsome Guys Only",
+      "imdb_id": "tt35042502",
+      "country": "Philippines",
+      "year": 2024
+    },
+    {
+      "id": "tt8146754",
+      "type": "series",
+      "name": "Infinity",
+      "imdb_id": "tt8146754",
+      "country": "Philippines",
+      "year": 2019
+    },
+    {
+      "id": "tt31019484",
+      "type": "series",
+      "name": "Missing You",
+      "imdb_id": "tt31019484",
+      "country": "Thailand",
+      "year": 2025
+    },
+    {
+      "id": "tt14237344",
+      "type": "series",
+      "name": "Overlooked Love",
+      "imdb_id": "tt14237344",
+      "country": "Philippines",
+      "year": 2021
+    },
+    {
+      "id": "tt7789780",
+      "type": "series",
+      "name": "Unexpected",
+      "imdb_id": "tt7789780",
+      "country": "Philippines",
+      "year": 2017
+    },
+    {
+      "id": "tt33520062",
+      "type": "series",
+      "name": "Allure Of The Siren",
+      "imdb_id": "tt33520062",
+      "country": "Thailand"
+    },
+    {
+      "id": "tt2562280",
+      "type": "series",
+      "name": "Boys Next Door",
+      "imdb_id": "tt2562280",
+      "country": "Philippines",
+      "year": 2012
+    },
+    {
+      "id": "tt0111976",
+      "type": "series",
+      "name": "Game On",
+      "imdb_id": "tt0111976",
+      "country": "Thailand",
+      "year": 1995
+    },
+    {
+      "id": "tt6118426",
+      "type": "series",
+      "name": "Innocence",
+      "imdb_id": "tt6118426",
+      "country": "Myanmar",
+      "year": 2018
+    },
+    {
+      "id": "tt33498978",
+      "type": "series",
+      "name": "Love At First Sight",
+      "imdb_id": "tt33498978",
+      "country": "Thailand",
+      "year": 2024
+    },
+    {
+      "id": "tt44111616",
+      "type": "series",
+      "name": "Love Lies",
+      "imdb_id": "tt44111616",
+      "country": "Philippines",
+      "year": 2026
+    },
+    {
+      "id": "tt12624862",
+      "type": "series",
+      "name": "Love Of Time",
+      "imdb_id": "tt12624862",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt30137313",
+      "type": "series",
+      "name": "May I Love You?",
+      "imdb_id": "tt30137313",
+      "country": "Thailand",
+      "year": 2023
+    },
+    {
+      "id": "tt3779578",
+      "type": "series",
+      "name": "My Imaginary Boyfriend",
+      "imdb_id": "tt3779578",
+      "country": "Thailand",
+      "year": 2014
+    },
+    {
+      "id": "tt5904666",
+      "type": "series",
+      "name": "My Last Love",
+      "imdb_id": "tt5904666",
+      "country": "Thailand",
+      "year": 2016
+    },
+    {
+      "id": "tt11045506",
+      "type": "series",
+      "name": "My Single",
+      "imdb_id": "tt11045506",
+      "country": "Thailand",
+      "year": 2020
+    },
+    {
+      "id": "tt32465903",
+      "type": "series",
+      "name": "Pray In Love",
+      "imdb_id": "tt32465903",
+      "country": "Taiwan",
+      "year": 2024
+    },
+    {
+      "id": "tt33522176",
+      "type": "series",
+      "name": "Red Peafowl",
+      "imdb_id": "tt33522176",
+      "country": "Thailand"
+    },
+    {
+      "id": "tt42299679",
+      "type": "series",
+      "name": "Sex Friend",
+      "imdb_id": "tt42299679",
+      "country": "Thailand",
+      "year": 2026
+    },
+    {
+      "id": "tt43578913",
+      "type": "series",
+      "name": "The Lawyer's Love",
+      "imdb_id": "tt43578913",
+      "country": "Philippines",
+      "year": 2026
+    },
+    {
+      "id": "tt0135738",
+      "type": "series",
+      "name": "Wish Me Luck",
+      "imdb_id": "tt0135738",
+      "country": "Thailand",
+      "year": 1987
+    },
+    {
+      "id": "tt43190833",
+      "type": "series",
+      "name": "Zero (Love Starts At Zero)",
+      "imdb_id": "tt43190833",
+      "country": "Thailand",
+      "year": 2026
+    }
+  ]
+}

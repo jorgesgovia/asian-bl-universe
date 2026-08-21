@@ -9,7 +9,7 @@ const data = JSON.parse(
   fs.readFileSync("./catalog.json", "utf8")
 );
 
-const metas = data.metas || [];
+const metas = Array.isArray(data) ? data : (data.metas || []);
 
 function getByCountry(country) {
 
